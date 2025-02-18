@@ -94,6 +94,10 @@ body {
     transition: background 0.3s ease;
     border: 1px solid #282828;
     align-items: center;
+    
+}
+.website span{
+    filter: blur(3px);
 }
 
 .email{
@@ -103,14 +107,16 @@ body {
     padding: 10px 30px;
     border: none;
     background-color: #161616;
-    color: white;
     font-size: 16px;
     cursor: pointer;
     border-radius: 5px;
     transition: background 0.3s ease;
     border: 1px solid #282828;
 }
-
+.email a{
+    text-decoration: none;
+    color: white;
+}
 
 .card-social-media {
     display: flex;
