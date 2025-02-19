@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins';
 }
 
 body {
@@ -26,10 +26,6 @@ body {
     z-index: 1;
 }
 
-.container > * {
-    width: 100%; /* Garante que todos os elementos dentro do container ocupam a largura total */
-}
-
 .profile img {
     width: 100px;
     height: 100px;
@@ -45,15 +41,12 @@ body {
 }
 
 .description {
-    text-align: center;
+    text-align: justify;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     color: #fff;
     margin-bottom: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 
 .links a {
@@ -66,7 +59,6 @@ body {
     border-radius: 5px;
     transition: background 0.3s;
     font-size: 18px;
-    width: 100%;
 }
 
 .links a:hover {
@@ -75,28 +67,27 @@ body {
 
 .card-social ul {
     list-style: none;
+    padding: 0;
     display: flex;
     gap: 30px;
     justify-content: center;
-    width: 100%;
 }
 
-.website, .email {
-    padding: 10px 30px;
-    border: 1px solid #282828;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background 0.3s ease;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.card-social li {
+    margin: 0;
 }
 
 .website {
+    padding: 10px 30px;
+    border: none;
     background-color: #1C1C1C;
     color: white;
     font-size: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+    border: 1px solid #282828;
+    align-items: center;
 }
 
 .website span {
@@ -104,11 +95,17 @@ body {
 }
 
 .email {
-    background-color: #161616;
-    font-size: 16px;
     display: flex;
     align-items: center;
     gap: 8px;
+    padding: 10px 30px;
+    border: none;
+    background-color: #161616;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+    border: 1px solid #282828;
 }
 
 .email a {
@@ -121,27 +118,24 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 30px;
-    width: 100%;
 }
 
 .card-social-media ul {
     list-style: none;
+    padding: 0;
+    margin: 0;
     display: flex;
     gap: 16px;
     align-items: center;
-    width: 100%;
 }
 
 .card-social-media li {
+    margin: 0;
+    padding: 0;
     background-color: #1c1c1c;
     border-radius: 6px;
     padding: 28px 42px;
     border: 1px solid #282828;
-    transition: border 0.3s;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .card-social-media li:hover {
@@ -149,12 +143,13 @@ body {
 }
 
 .card-social-media img {
+    display: block;
     width: 30px;
     height: 30px;
 }
 
 .carousel-container {
-    width: 100%;
+    width: 300px;
     overflow: hidden;
     position: relative;
 }
@@ -162,8 +157,6 @@ body {
 .carousel {
     display: flex;
     transition: transform 0.5s ease-in-out;
-    width: 100%;
-    justify-content: center;
 }
 
 .carousel img {
@@ -188,72 +181,97 @@ body {
     padding: 10px;
     cursor: pointer;
     font-size: 18px;
-    width: 50px;
 }
 
 .carousel-controls button:hover {
     background-color: #0056b3;
 }
+
+/* MEDIA QUERIES PARA RESPONSIVIDADE */
+
+/* Ecrãs menores que 768px (tablets e telemóveis grandes) */
 @media (max-width: 768px) {
     .container {
-        width: 100%;
+        width: 90%;
         padding: 30px;
     }
+    
     .title {
         font-size: 24px;
     }
+
     .description {
         font-size: 14px;
         line-height: 22px;
     }
+
     .links a {
         font-size: 16px;
         padding: 12px;
     }
+
     .profile img {
         width: 80px;
         height: 80px;
     }
-    .card-social-media ul {
+
+    .card-social ul {
         gap: 20px;
     }
+
+    .card-social-media ul {
+        gap: 10px;
+    }
+
     .card-social-media li {
         padding: 20px 30px;
     }
 }
 
+/* Ecrãs menores que 480px (telemóveis pequenos) */
 @media (max-width: 480px) {
     .container {
+        width: 95%;
         padding: 20px;
     }
+
     .title {
         font-size: 20px;
     }
+
     .description {
         font-size: 12px;
         line-height: 20px;
     }
+
     .links a {
         font-size: 14px;
         padding: 10px;
     }
+
     .profile img {
         width: 70px;
         height: 70px;
     }
-   
-    .card-social-media ul {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
+
+    .card-social ul {
+        flex-direction: column;
         gap: 15px;
-        justify-content: center;
     }
+
+    .card-social-media ul {
+        flex-direction: column;
+        gap: 8px;
+    }
+
     .card-social-media li {
         padding: 15px 20px;
     }
+
     .carousel-container {
         width: 100%;
     }
+
     .carousel img {
         width: 80px;
         height: 80px;
