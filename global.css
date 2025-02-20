@@ -14,7 +14,7 @@ body {
     background: #161616;
     position: relative;
     overflow: hidden;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 .container {
@@ -23,6 +23,7 @@ body {
     width: 700px;
     position: relative;
     z-index: 1;
+    margin-top: 50px;
 }
 
 .container > * {
