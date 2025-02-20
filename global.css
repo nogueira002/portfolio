@@ -20,10 +20,10 @@ body {
 .container {
     text-align: center;
     border-radius: 10px;
-    width: 700px;
+    max-width: 640px;
     position: relative;
     z-index: 1;
-    margin-top: 50px;
+    margin-top: 160px;
 }
 
 .container > * {
@@ -76,7 +76,7 @@ body {
 .card-social ul {
     list-style: none;
     display: flex;
-    gap: 30px;
+    gap: 16px;
     justify-content: center;
     width: 100%;
 }
@@ -96,16 +96,14 @@ body {
 .website {
     background-color: #1C1C1C;
     color: white;
-    font-size: 15px;
+    font-size: 12px;
 }
 
-.website span {
-    filter: blur(3px);
-}
+
 
 .email {
     background-color: #161616;
-    font-size: 16px;
+    font-size: 12px;
     display: flex;
     align-items: center;
     gap: 8px;
@@ -120,7 +118,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
+    margin-top: 56px;
     width: 100%;
 }
 
@@ -135,7 +133,7 @@ body {
 .card-social-media li {
     background-color: #1c1c1c;
     border-radius: 6px;
-    padding: 28px 42px;
+    padding: 25px 40px;
     border: 1px solid #282828;
     transition: border 0.3s;
     width: 100%;
