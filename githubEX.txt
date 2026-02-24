@@ -1,0 +1,5573 @@
+<section id="github-stats"><div class="flex min-h-0 flex-col gap-y-3"><div style="opacity: 1; filter: blur(0px); transform: translateY(-6px) translateZ(0px);"><h2 class="text-xl font-bold">GitHub Activity</h2></div><div style="opacity: 1; filter: blur(0px); transform: translateY(-6px) translateZ(0px);"><div class="mt-1"><div style="opacity: 1; filter: blur(0px); transform: translateY(-6px) translateZ(0px);"><div class="rounded-xl text-card-foreground w-full border border-border/40 bg-background/50 backdrop-blur-sm relative"><div class="absolute top-0 left-0 right-0 flex justify-center"><div class="h-[1px] top-0 w-[40%] bg-gradient-to-r from-transparent via-primary/70 to-transparent"></div></div><div class="flex flex-col p-4 pb-0"><div class="flex items-center justify-between"><div class="flex items-center gap-3"><div class="flex h-10 w-10 items-center justify-center rounded-full bg-gradient-to-br from-slate-800 to-slate-950 p-0.5"><img src="https://avatars.githubusercontent.com/u/75584975?v=4" alt="MasteerRui" class="h-full w-full rounded-full object-cover"></div><div><a href="https://github.com/MasteerRui" target="_blank" rel="noopener noreferrer" class="text-foreground hover:text-primary flex items-center gap-1 font-medium transition-colors">MasteerRui<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-external-link h-3 w-3"><path d="M15 3h6v6"></path><path d="M10 14 21 3"></path><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path></svg></a><div class="text-xs text-muted-foreground"><div class="flex -space-x-0.5"><div class=" flex -space-x-1"><div class="relative"><div class="cursor-pointer" data-state="closed"><img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" alt="starstruck" class="h-5 w-5 rounded-full ring-2 ring-background"></div></div><div class="relative"><div class="cursor-pointer" data-state="closed"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="pull-shark" class="h-5 w-5 rounded-full ring-2 ring-background"></div></div><div class="relative"><div class="cursor-pointer" data-state="closed"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="yolo" class="h-5 w-5 rounded-full ring-2 ring-background"></div></div><div class="relative"><div class="cursor-pointer" data-state="closed"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="quickdraw" class="h-5 w-5 rounded-full ring-2 ring-background"></div></div></div></div></div></div></div><div class="flex items-center gap-1.5"><div class="flex items-center bg-muted/30 rounded-full p-0.5"><button class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 h-8 w-8 rounded-full text-muted-foreground hover:text-foreground hover:bg-muted/50" type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r6:" data-state="closed"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-calendar-clock h-4 w-4"><path d="M21 7.5V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h3.5"></path><path d="M16 2v4"></path><path d="M8 2v4"></path><path d="M3 10h5"></path><path d="M17.5 17.5 16 16.3V14"></path><circle cx="16" cy="16" r="6"></circle></svg><span class="sr-only">Filter by year</span></button><button class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 h-8 w-8 rounded-full text-muted-foreground hover:text-foreground hover:bg-muted/50" data-state="closed"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-up h-4 w-4"><path d="m18 15-6-6-6 6"></path></svg><span class="sr-only">Show less</span></button></div></div></div></div><div class="text-pretty font-sans text-sm text-muted-foreground p-4"><div class="mt-3 mb-2 grid grid-cols-2 sm:grid-cols-4 gap-2"><div class="group flex items-center gap-2 rounded-lg bg-gradient-to-br from-background to-muted/20 px-2 py-1.5 shadow-sm border border-border/20 transition-all duration-200 hover:shadow-sm hover:border-border/40 hover:bg-muted/10"><div class="flex items-center justify-center h-7 w-7 border border-border/40 rounded-sm bg-background/50 shrink-0 transition-all duration-200 group-hover:border-border/60"><div class="h-3.5 w-3.5 flex justify-center align-middle items-center"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-star text-amber-500"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg></div></div><div class="flex flex-col justify-center"><span class="font-semibold text-sm leading-none">90</span><span class="text-[10px] text-muted-foreground capitalize leading-tight">stars</span></div></div><div class="group flex items-center gap-2 rounded-lg bg-gradient-to-br from-background to-muted/20 px-2 py-1.5 shadow-sm border border-border/20 transition-all duration-200 hover:shadow-sm hover:border-border/40 hover:bg-muted/10"><div class="flex items-center justify-center h-7 w-7 border border-border/40 rounded-sm bg-background/50 shrink-0 transition-all duration-200 group-hover:border-border/60"><div class="h-3.5 w-3.5 flex justify-center align-middle items-center"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-git-branch text-emerald-500"><line x1="6" x2="6" y1="3" y2="15"></line><circle cx="18" cy="6" r="3"></circle><circle cx="6" cy="18" r="3"></circle><path d="M18 9a9 9 0 0 1-9 9"></path></svg></div></div><div class="flex flex-col justify-center"><span class="font-semibold text-sm leading-none">89</span><span class="text-[10px] text-muted-foreground capitalize leading-tight">repos</span></div></div><div class="group flex items-center gap-2 rounded-lg bg-gradient-to-br from-background to-muted/20 px-2 py-1.5 shadow-sm border border-border/20 transition-all duration-200 hover:shadow-sm hover:border-border/40 hover:bg-muted/10"><div class="flex items-center justify-center h-7 w-7 border border-border/40 rounded-sm bg-background/50 shrink-0 transition-all duration-200 group-hover:border-border/60"><div class="h-3.5 w-3.5 flex justify-center align-middle items-center"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-users text-blue-500"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M22 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg></div></div><div class="flex flex-col justify-center"><span class="font-semibold text-sm leading-none">10</span><span class="text-[10px] text-muted-foreground capitalize leading-tight">followers</span></div></div><div class="group flex items-center gap-2 rounded-lg bg-gradient-to-br from-background to-muted/20 px-2 py-1.5 shadow-sm border border-border/20 transition-all duration-200 hover:shadow-sm hover:border-border/40 hover:bg-muted/10"><div class="flex items-center justify-center h-7 w-7 border border-border/40 rounded-sm bg-background/50 shrink-0 transition-all duration-200 group-hover:border-border/60"><div class="h-3.5 w-3.5 flex justify-center align-middle items-center"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-git-commit-horizontal text-purple-500"><circle cx="12" cy="12" r="3"></circle><line x1="3" x2="9" y1="12" y2="12"></line><line x1="15" x2="21" y1="12" y2="12"></line></svg></div></div><div class="flex flex-col justify-center"><span class="font-semibold text-sm leading-none">1867</span><span class="text-[10px] text-muted-foreground capitalize leading-tight">commits</span></div></div></div><div class="overflow-hidden" style="height: auto; opacity: 1;"><div data-orientation="horizontal" role="none" class="shrink-0 bg-border h-[1px] w-full my-4"></div><div class="space-y-4"><div class="flex items-center gap-2"><div class="flex items-center justify-center h-6 w-6 border border-border/40 rounded-sm bg-background/50"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-code h-3.5 w-3.5 text-foreground/70"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg></div><h3 class="text-sm font-medium">Top Languages</h3></div><div class="grid grid-cols-1 sm:grid-cols-2 gap-3 mt-3"><div class="group flex items-center gap-2 rounded-lg bg-gradient-to-br from-background to-muted/10 p-2 shadow-sm border border-border/20 transition-all duration-200 hover:shadow-sm hover:border-border/40 hover:bg-muted/5"><div class="flex items-center justify-center h-7 w-7 rounded-sm shrink-0 border border-border/30" style="background-color: rgba(49, 120, 198, 0.082); border-color: rgba(49, 120, 198, 0.19);"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-file-type h-3.5 w-3.5"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path><path d="M14 2v4a2 2 0 0 0 2 2h4"></path><path d="M9 13v-1h6v1"></path><path d="M12 12v6"></path><path d="M11 18h2"></path></svg></div><div class="flex flex-col justify-center flex-1"><div class="flex justify-between items-center"><span class="font-medium text-xs">TypeScript</span><span class="text-xs font-semibold" style="color: rgb(49, 120, 198);">67%</span></div><div class="h-1.5 w-full bg-muted/30 rounded-full overflow-hidden mt-1"><div class="h-full rounded-full transition-all duration-300 group-hover:opacity-90" style="width: 67%; background-color: rgb(49, 120, 198);"></div></div></div></div><div class="group flex items-center gap-2 rounded-lg bg-gradient-to-br from-background to-muted/10 p-2 shadow-sm border border-border/20 transition-all duration-200 hover:shadow-sm hover:border-border/40 hover:bg-muted/5"><div class="flex items-center justify-center h-7 w-7 rounded-sm shrink-0 border border-border/30" style="background-color: rgba(241, 224, 90, 0.082); border-color: rgba(241, 224, 90, 0.19);"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-braces h-3.5 w-3.5"><path d="M8 3H7a2 2 0 0 0-2 2v5a2 2 0 0 1-2 2 2 2 0 0 1 2 2v5c0 1.1.9 2 2 2h1"></path><path d="M16 21h1a2 2 0 0 0 2-2v-5c0-1.1.9-2 2-2a2 2 0 0 1-2-2V5a2 2 0 0 0-2-2h-1"></path></svg></div><div class="flex flex-col justify-center flex-1"><div class="flex justify-between items-center"><span class="font-medium text-xs">JavaScript</span><span class="text-xs font-semibold" style="color: rgb(241, 224, 90);">11%</span></div><div class="h-1.5 w-full bg-muted/30 rounded-full overflow-hidden mt-1"><div class="h-full rounded-full transition-all duration-300 group-hover:opacity-90" style="width: 11%; background-color: rgb(241, 224, 90);"></div></div></div></div><div class="group flex items-center gap-2 rounded-lg bg-gradient-to-br from-background to-muted/10 p-2 shadow-sm border border-border/20 transition-all duration-200 hover:shadow-sm hover:border-border/40 hover:bg-muted/5"><div class="flex items-center justify-center h-7 w-7 rounded-sm shrink-0 border border-border/30" style="background-color: rgba(0, 180, 171, 0.082); border-color: rgba(0, 180, 171, 0.19);"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-layers h-3.5 w-3.5"><path d="m12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83Z"></path><path d="m22 17.65-9.17 4.16a2 2 0 0 1-1.66 0L2 17.65"></path><path d="m22 12.65-9.17 4.16a2 2 0 0 1-1.66 0L2 12.65"></path></svg></div><div class="flex flex-col justify-center flex-1"><div class="flex justify-between items-center"><span class="font-medium text-xs">Dart</span><span class="text-xs font-semibold" style="color: rgb(0, 180, 171);">10%</span></div><div class="h-1.5 w-full bg-muted/30 rounded-full overflow-hidden mt-1"><div class="h-full rounded-full transition-all duration-300 group-hover:opacity-90" style="width: 10%; background-color: rgb(0, 180, 171);"></div></div></div></div><div class="group flex items-center gap-2 rounded-lg bg-gradient-to-br from-background to-muted/10 p-2 shadow-sm border border-border/20 transition-all duration-200 hover:shadow-sm hover:border-border/40 hover:bg-muted/5"><div class="flex items-center justify-center h-7 w-7 rounded-sm shrink-0 border border-border/30" style="background-color: rgba(102, 51, 153, 0.082); border-color: rgba(102, 51, 153, 0.19);"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-file-code h-3.5 w-3.5"><path d="M10 12.5 8 15l2 2.5"></path><path d="m14 12.5 2 2.5-2 2.5"></path><path d="M14 2v4a2 2 0 0 0 2 2h4"></path><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7z"></path></svg></div><div class="flex flex-col justify-center flex-1"><div class="flex justify-between items-center"><span class="font-medium text-xs">CSS</span><span class="text-xs font-semibold" style="color: rgb(102, 51, 153);">7%</span></div><div class="h-1.5 w-full bg-muted/30 rounded-full overflow-hidden mt-1"><div class="h-full rounded-full transition-all duration-300 group-hover:opacity-90" style="width: 7%; background-color: rgb(102, 51, 153);"></div></div></div></div><div class="group flex items-center gap-2 rounded-lg bg-gradient-to-br from-background to-muted/10 p-2 shadow-sm border border-border/20 transition-all duration-200 hover:shadow-sm hover:border-border/40 hover:bg-muted/5"><div class="flex items-center justify-center h-7 w-7 rounded-sm shrink-0 border border-border/30" style="background-color: rgba(79, 93, 149, 0.082); border-color: rgba(79, 93, 149, 0.19);"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-file-code h-3.5 w-3.5"><path d="M10 12.5 8 15l2 2.5"></path><path d="m14 12.5 2 2.5-2 2.5"></path><path d="M14 2v4a2 2 0 0 0 2 2h4"></path><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7z"></path></svg></div><div class="flex flex-col justify-center flex-1"><div class="flex justify-between items-center"><span class="font-medium text-xs">PHP</span><span class="text-xs font-semibold" style="color: rgb(79, 93, 149);">3%</span></div><div class="h-1.5 w-full bg-muted/30 rounded-full overflow-hidden mt-1"><div class="h-full rounded-full transition-all duration-300 group-hover:opacity-90" style="width: 3%; background-color: rgb(79, 93, 149);"></div></div></div></div><div class="group flex items-center gap-2 rounded-lg bg-gradient-to-br from-background to-muted/10 p-2 shadow-sm border border-border/20 transition-all duration-200 hover:shadow-sm hover:border-border/40 hover:bg-muted/5"><div class="flex items-center justify-center h-7 w-7 rounded-sm shrink-0 border border-border/30" style="background-color: rgba(247, 82, 63, 0.082); border-color: rgba(247, 82, 63, 0.19);"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-code h-3.5 w-3.5"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg></div><div class="flex flex-col justify-center flex-1"><div class="flex justify-between items-center"><span class="font-medium text-xs">Blade</span><span class="text-xs font-semibold" style="color: rgb(247, 82, 63);">2%</span></div><div class="h-1.5 w-full bg-muted/30 rounded-full overflow-hidden mt-1"><div class="h-full rounded-full transition-all duration-300 group-hover:opacity-90" style="width: 2%; background-color: rgb(247, 82, 63);"></div></div></div></div></div></div><div class="pt-6"><div class="flex items-center gap-2 mb-3"><div class="flex items-center justify-center h-6 w-6 border border-border/40 rounded-sm bg-background/50"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-git-commit-horizontal h-3.5 w-3.5 text-foreground/70"><circle cx="12" cy="12" r="3"></circle><line x1="3" x2="9" y1="12" y2="12"></line><line x1="15" x2="21" y1="12" y2="12"></line></svg></div><h3 class="text-sm font-medium">Contribution Activity</h3></div><div class="bg-background border border-border/40 rounded-lg px-4 pt-4 pb-2"><div class="w-full"><div class="relative mb-2 h-5"><div class="absolute text-xs text-gray-500" style="transform: translateX(0px); left: 0%;">Jan</div><div class="absolute text-xs text-gray-500" style="transform: translateX(0px); left: 9.43396%;">Feb</div><div class="absolute text-xs text-gray-500" style="transform: translateX(0px); left: 16.9811%;">Mar</div><div class="absolute text-xs text-gray-500" style="transform: translateX(0px); left: 24.5283%;">Apr</div><div class="absolute text-xs text-gray-500" style="transform: translateX(0px); left: 32.0755%;">May</div><div class="absolute text-xs text-gray-500" style="transform: translateX(0px); left: 41.5094%;">Jun</div><div class="absolute text-xs text-gray-500" style="transform: translateX(0px); left: 49.0566%;">Jul</div><div class="absolute text-xs text-gray-500" style="transform: translateX(0px); left: 56.6038%;">Aug</div><div class="absolute text-xs text-gray-500" style="transform: translateX(0px); left: 66.0377%;">Sep</div><div class="absolute text-xs text-gray-500" style="transform: translateX(0px); left: 73.5849%;">Oct</div><div class="absolute text-xs text-gray-500" style="transform: translateX(0px); left: 83.0189%;">Nov</div><div class="absolute text-xs text-gray-500" style="transform: translateX(0px); left: 90.566%;">Dec</div></div><div class="grid gap-[2px]" style="grid-template-columns: repeat(53, minmax(0px, 1fr));"><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px]"></div><div class="w-[10px] h-[10px]"></div><div class="w-[10px] h-[10px]"></div><div class="w-[10px] h-[10px]"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="6 contributions on 1/01
+
+2026: 5 commits
+2025: 1 commit
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 2/01
+
+2026: 2 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 3/01
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="6 contributions on 4/01
+
+2026: 5 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="5 contributions on 5/01
+
+2026: 0 commits
+2025: 0 commits
+2024: 5 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="3 contributions on 6/01
+
+2026: 1 commit
+2025: 0 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-700 dark:bg-emerald-300 hover:ring-1 hover:ring-gray-400 transition-all" title="22 contributions on 7/01
+
+2026: 19 commits
+2025: 0 commits
+2024: 3 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 8/01
+
+2026: 2 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 9/01
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="9 contributions on 10/01
+
+2026: 0 commits
+2025: 0 commits
+2024: 9 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 11/01
+
+2026: 0 commits
+2025: 1 commit
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 12/01
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="11 contributions on 13/01
+
+2026: 9 commits
+2025: 2 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 14/01
+
+2026: 3 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="7 contributions on 15/01
+
+2026: 6 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 16/01
+
+2026: 1 commit
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 17/01
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="4 contributions on 18/01
+
+2026: 1 commit
+2025: 0 commits
+2024: 0 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 19/01
+
+2026: 2 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 20/01
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 21/01
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 22/01
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 23/01
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-700 dark:bg-emerald-300 hover:ring-1 hover:ring-gray-400 transition-all" title="31 contributions on 24/01
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 30 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="17 contributions on 25/01
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 17 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="11 contributions on 26/01
+
+2026: 3 commits
+2025: 0 commits
+2024: 0 commits
+2023: 8 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 27/01
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="4 contributions on 28/01
+
+2026: 0 commits
+2025: 0 commits
+2024: 3 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="5 contributions on 29/01
+
+2026: 0 commits
+2025: 1 commit
+2024: 3 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 30/01
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 31/01
+
+2026: 1 commit
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="3 contributions on 1/02
+
+2026: 0 commits
+2025: 0 commits
+2024: 3 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 2/02
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="11 contributions on 3/02
+
+2026: 8 commits
+2025: 0 commits
+2024: 3 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="17 contributions on 4/02
+
+2026: 13 commits
+2025: 0 commits
+2024: 3 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="5 contributions on 5/02
+
+2026: 4 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 6/02
+
+2026: 2 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="4 contributions on 7/02
+
+2026: 0 commits
+2025: 2 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="3 contributions on 8/02
+
+2026: 1 commit
+2025: 0 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="4 contributions on 9/02
+
+2026: 2 commits
+2025: 2 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="5 contributions on 10/02
+
+2026: 4 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="4 contributions on 11/02
+
+2026: 3 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="12 contributions on 12/02
+
+2026: 4 commits
+2025: 0 commits
+2024: 7 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="10 contributions on 13/02
+
+2026: 10 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 14/02
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="8 contributions on 15/02
+
+2026: 0 commits
+2025: 0 commits
+2024: 8 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="4 contributions on 16/02
+
+2026: 0 commits
+2025: 0 commits
+2024: 4 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="7 contributions on 17/02
+
+2026: 3 commits
+2025: 0 commits
+2024: 4 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="10 contributions on 18/02
+
+2026: 5 commits
+2025: 0 commits
+2024: 5 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="14 contributions on 19/02
+
+2026: 3 commits
+2025: 1 commit
+2024: 8 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="12 contributions on 20/02
+
+2026: 7 commits
+2025: 1 commit
+2024: 3 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="12 contributions on 21/02
+
+2026: 2 commits
+2025: 1 commit
+2024: 9 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="10 contributions on 22/02
+
+2026: 0 commits
+2025: 0 commits
+2024: 7 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 23/02
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="4 contributions on 24/02
+
+2026: 0 commits
+2025: 1 commit
+2024: 3 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 25/02
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="10 contributions on 26/02
+
+2026: 0 commits
+2025: 0 commits
+2024: 10 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="5 contributions on 27/02
+
+2026: 0 commits
+2025: 3 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 28/02
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="4 contributions on 1/03
+
+2026: 0 commits
+2025: 3 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="13 contributions on 2/03
+
+2026: 0 commits
+2025: 2 commits
+2024: 11 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="3 contributions on 3/03
+
+2026: 0 commits
+2025: 1 commit
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 4/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 3 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="7 contributions on 5/03
+
+2026: 0 commits
+2025: 1 commit
+2024: 5 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 6/03
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 7/03
+
+2026: 0 commits
+2025: 1 commit
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="14 contributions on 8/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 14 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="6 contributions on 9/03
+
+2026: 0 commits
+2025: 2 commits
+2024: 4 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 10/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="6 contributions on 11/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 6 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="16 contributions on 12/03
+
+2026: 0 commits
+2025: 4 commits
+2024: 12 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 13/03
+
+2026: 0 commits
+2025: 2 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 14/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 15/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 16/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 17/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 18/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 19/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 20/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="11 contributions on 21/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 11 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 22/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 23/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 24/03
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 25/03
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 26/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 27/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 28/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 29/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="3 contributions on 29/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 3 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 30/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 31/03
+
+2026: 0 commits
+2025: 0 commits
+2024: 3 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 1/04
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="4 contributions on 2/04
+
+2026: 0 commits
+2025: 0 commits
+2024: 4 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 3/04
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 4/04
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="7 contributions on 5/04
+
+2026: 0 commits
+2025: 0 commits
+2024: 7 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="8 contributions on 6/04
+
+2026: 0 commits
+2025: 0 commits
+2024: 8 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 7/04
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 8/04
+
+2026: 0 commits
+2025: 3 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 9/04
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 10/04
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 11/04
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 12/04
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="12 contributions on 13/04
+
+2026: 0 commits
+2025: 1 commit
+2024: 5 commits
+2023: 6 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 14/04
+
+2026: 0 commits
+2025: 1 commit
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 15/04
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 16/04
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 17/04
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 18/04
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 19/04
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 20/04
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 21/04
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="11 contributions on 22/04
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 9 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="4 contributions on 23/04
+
+2026: 0 commits
+2025: 4 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="9 contributions on 24/04
+
+2026: 0 commits
+2025: 7 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="17 contributions on 25/04
+
+2026: 0 commits
+2025: 17 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="17 contributions on 26/04
+
+2026: 0 commits
+2025: 17 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 27/04
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 28/04
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 29/04
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="4 contributions on 30/04
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="8 contributions on 1/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 6 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="4 contributions on 2/05
+
+2026: 0 commits
+2025: 3 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 3/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 4/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 5/05
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="5 contributions on 6/05
+
+2026: 0 commits
+2025: 3 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 7/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 8/05
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 9/05
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 10/05
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="4 contributions on 11/05
+
+2026: 0 commits
+2025: 4 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 12/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="4 contributions on 13/05
+
+2026: 0 commits
+2025: 3 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 14/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 15/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 16/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 17/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 18/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 19/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 20/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 21/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 22/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 23/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 24/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 25/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 26/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 27/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 28/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 29/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 30/05
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 31/05
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 1/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 2/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 3/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="4 contributions on 4/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 5/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="3 contributions on 6/06
+
+2026: 0 commits
+2025: 2 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 7/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 8/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="4 contributions on 9/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 4 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 10/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="7 contributions on 11/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 7 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="13 contributions on 12/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 4 commits
+2023: 9 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="16 contributions on 13/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 3 commits
+2023: 13 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 14/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="5 contributions on 15/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 3 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 16/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 17/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="9 contributions on 18/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 9 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="15 contributions on 19/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 7 commits
+2023: 8 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="7 contributions on 20/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 7 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 21/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="14 contributions on 22/06
+
+2026: 0 commits
+2025: 4 commits
+2024: 0 commits
+2023: 10 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="8 contributions on 23/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 8 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-700 dark:bg-emerald-300 hover:ring-1 hover:ring-gray-400 transition-all" title="30 contributions on 24/06
+
+2026: 0 commits
+2025: 9 commits
+2024: 0 commits
+2023: 21 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-700 dark:bg-emerald-300 hover:ring-1 hover:ring-gray-400 transition-all" title="40 contributions on 25/06
+
+2026: 0 commits
+2025: 5 commits
+2024: 0 commits
+2023: 35 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="10 contributions on 26/06
+
+2026: 0 commits
+2025: 4 commits
+2024: 0 commits
+2023: 6 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="5 contributions on 27/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 5 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="11 contributions on 28/06
+
+2026: 0 commits
+2025: 11 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="5 contributions on 29/06
+
+2026: 0 commits
+2025: 5 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 30/06
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="7 contributions on 1/07
+
+2026: 0 commits
+2025: 0 commits
+2024: 5 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="4 contributions on 2/07
+
+2026: 0 commits
+2025: 3 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 3/07
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="6 contributions on 4/07
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 6 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 5/07
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="6 contributions on 6/07
+
+2026: 0 commits
+2025: 1 commit
+2024: 2 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 7/07
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 8/07
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="5 contributions on 9/07
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 5 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 10/07
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="7 contributions on 11/07
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 6 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="7 contributions on 12/07
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 5 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="5 contributions on 13/07
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 14/07
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 15/07
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 16/07
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 17/07
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="5 contributions on 18/07
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 19/07
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 20/07
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="5 contributions on 21/07
+
+2026: 0 commits
+2025: 3 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 22/07
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 23/07
+
+2026: 0 commits
+2025: 2 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 24/07
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="3 contributions on 25/07
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="8 contributions on 26/07
+
+2026: 0 commits
+2025: 5 commits
+2024: 1 commit
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 27/07
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="6 contributions on 28/07
+
+2026: 0 commits
+2025: 4 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 29/07
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 30/07
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 31/07
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 1/08
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 2/08
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 3/08
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="8 contributions on 4/08
+
+2026: 0 commits
+2025: 0 commits
+2024: 3 commits
+2023: 5 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="5 contributions on 5/08
+
+2026: 0 commits
+2025: 1 commit
+2024: 1 commit
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="5 contributions on 6/08
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 4 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 7/08
+
+2026: 0 commits
+2025: 1 commit
+2024: 1 commit
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="14 contributions on 8/08
+
+2026: 0 commits
+2025: 13 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="9 contributions on 9/08
+
+2026: 0 commits
+2025: 5 commits
+2024: 1 commit
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 10/08
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 11/08
+
+2026: 0 commits
+2025: 1 commit
+2024: 1 commit
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="6 contributions on 12/08
+
+2026: 0 commits
+2025: 1 commit
+2024: 4 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="5 contributions on 13/08
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="4 contributions on 14/08
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="6 contributions on 15/08
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 6 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="24 contributions on 16/08
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 22 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 17/08
+
+2026: 0 commits
+2025: 1 commit
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="7 contributions on 18/08
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 5 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="7 contributions on 19/08
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 6 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="5 contributions on 20/08
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 5 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="9 contributions on 21/08
+
+2026: 0 commits
+2025: 9 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="4 contributions on 22/08
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="10 contributions on 23/08
+
+2026: 0 commits
+2025: 7 commits
+2024: 1 commit
+2023: 1 commit
+2022: 0 commits
+2021: 1 commit
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="9 contributions on 24/08
+
+2026: 0 commits
+2025: 5 commits
+2024: 3 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="14 contributions on 25/08
+
+2026: 0 commits
+2025: 5 commits
+2024: 2 commits
+2023: 3 commits
+2022: 0 commits
+2021: 4 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-700 dark:bg-emerald-300 hover:ring-1 hover:ring-gray-400 transition-all" title="23 contributions on 26/08
+
+2026: 0 commits
+2025: 22 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-700 dark:bg-emerald-300 hover:ring-1 hover:ring-gray-400 transition-all" title="25 contributions on 27/08
+
+2026: 0 commits
+2025: 6 commits
+2024: 3 commits
+2023: 16 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="10 contributions on 28/08
+
+2026: 0 commits
+2025: 4 commits
+2024: 0 commits
+2023: 6 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="15 contributions on 29/08
+
+2026: 0 commits
+2025: 12 commits
+2024: 1 commit
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="6 contributions on 30/08
+
+2026: 0 commits
+2025: 3 commits
+2024: 0 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 31/08
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="19 contributions on 1/09
+
+2026: 0 commits
+2025: 18 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="4 contributions on 2/09
+
+2026: 0 commits
+2025: 1 commit
+2024: 2 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="10 contributions on 3/09
+
+2026: 0 commits
+2025: 6 commits
+2024: 1 commit
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="14 contributions on 4/09
+
+2026: 0 commits
+2025: 3 commits
+2024: 0 commits
+2023: 11 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="3 contributions on 5/09
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 6/09
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="4 contributions on 7/09
+
+2026: 0 commits
+2025: 2 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="16 contributions on 8/09
+
+2026: 0 commits
+2025: 1 commit
+2024: 1 commit
+2023: 14 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="11 contributions on 9/09
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 9 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="8 contributions on 10/09
+
+2026: 0 commits
+2025: 3 commits
+2024: 0 commits
+2023: 5 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="5 contributions on 11/09
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 4 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="3 contributions on 12/09
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="10 contributions on 13/09
+
+2026: 0 commits
+2025: 5 commits
+2024: 2 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="48 contributions on 14/09
+
+2026: 0 commits
+2025: 16 commits
+2024: 1 commit
+2023: 31 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-700 dark:bg-emerald-300 hover:ring-1 hover:ring-gray-400 transition-all" title="30 contributions on 15/09
+
+2026: 0 commits
+2025: 23 commits
+2024: 6 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="12 contributions on 16/09
+
+2026: 0 commits
+2025: 8 commits
+2024: 0 commits
+2023: 4 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="5 contributions on 17/09
+
+2026: 0 commits
+2025: 3 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="11 contributions on 18/09
+
+2026: 0 commits
+2025: 9 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 19/09
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="20 contributions on 20/09
+
+2026: 0 commits
+2025: 18 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="4 contributions on 21/09
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="11 contributions on 22/09
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 11 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="8 contributions on 23/09
+
+2026: 0 commits
+2025: 0 commits
+2024: 7 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 24/09
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="9 contributions on 25/09
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 7 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="5 contributions on 26/09
+
+2026: 0 commits
+2025: 0 commits
+2024: 4 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="5 contributions on 27/09
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 4 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="9 contributions on 28/09
+
+2026: 0 commits
+2025: 4 commits
+2024: 5 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 29/09
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="14 contributions on 30/09
+
+2026: 0 commits
+2025: 0 commits
+2024: 12 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="15 contributions on 1/10
+
+2026: 0 commits
+2025: 11 commits
+2024: 0 commits
+2023: 4 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-700 dark:bg-emerald-300 hover:ring-1 hover:ring-gray-400 transition-all" title="30 contributions on 2/10
+
+2026: 0 commits
+2025: 20 commits
+2024: 0 commits
+2023: 10 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 3/10
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="9 contributions on 4/10
+
+2026: 0 commits
+2025: 6 commits
+2024: 3 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="3 contributions on 5/10
+
+2026: 0 commits
+2025: 1 commit
+2024: 1 commit
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 6/10
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="11 contributions on 7/10
+
+2026: 0 commits
+2025: 3 commits
+2024: 7 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 8/10
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 9/10
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 10/10
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="7 contributions on 11/10
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 7 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="3 contributions on 12/10
+
+2026: 0 commits
+2025: 3 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="9 contributions on 13/10
+
+2026: 0 commits
+2025: 8 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="9 contributions on 14/10
+
+2026: 0 commits
+2025: 1 commit
+2024: 2 commits
+2023: 6 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 15/10
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 16/10
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 17/10
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="3 contributions on 18/10
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 3 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="5 contributions on 19/10
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 5 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="7 contributions on 20/10
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 6 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="7 contributions on 21/10
+
+2026: 0 commits
+2025: 3 commits
+2024: 0 commits
+2023: 4 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="4 contributions on 22/10
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 23/10
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 24/10
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 26/10
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 27/10
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-purple-600 dark:bg-purple-400 relative z-10" title="9 contributions on 28/10
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 8 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"><div class="absolute top-[2px] left-[1px] w-[2px] h-[2px] bg-black dark:bg-white rounded-full"></div><div class="absolute top-[2px] right-[1px] w-[2px] h-[2px] bg-black dark:bg-white rounded-full"></div></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="8 contributions on 29/10
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 7 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="4 contributions on 30/10
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 4 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="4 contributions on 31/10
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 2 commits
+2022: 2 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="4 contributions on 1/11
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 2/11
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="6 contributions on 3/11
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 5 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-purple-500 dark:bg-fuchsia-400" title="4 contributions on 4/11
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 4 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 5/11
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 6/11
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="9 contributions on 7/11
+
+2026: 0 commits
+2025: 6 commits
+2024: 0 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 8/11
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="5 contributions on 9/11
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 4 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 10/11
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-fuchsia-500 dark:bg-pink-400" title="9 contributions on 11/11
+
+2026: 0 commits
+2025: 6 commits
+2024: 0 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="7 contributions on 12/11
+
+2026: 0 commits
+2025: 5 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="7 contributions on 13/11
+
+2026: 0 commits
+2025: 3 commits
+2024: 0 commits
+2023: 4 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 14/11
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 15/11
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="6 contributions on 16/11
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 4 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="7 contributions on 17/11
+
+2026: 0 commits
+2025: 6 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-fuchsia-500 dark:bg-pink-400" title="7 contributions on 18/11
+
+2026: 0 commits
+2025: 3 commits
+2024: 4 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="7 contributions on 19/11
+
+2026: 0 commits
+2025: 5 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 20/11
+
+2026: 0 commits
+2025: 3 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="6 contributions on 21/11
+
+2026: 0 commits
+2025: 3 commits
+2024: 1 commit
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="3 contributions on 22/11
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 23/11
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 24/11
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-pink-500 dark:bg-rose-400" title="3 contributions on 25/11
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-500 dark:bg-emerald-500 hover:ring-1 hover:ring-gray-400 transition-all" title="15 contributions on 26/11
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 13 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 27/11
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="5 contributions on 28/11
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 5 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="3 contributions on 29/11
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 3 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 30/11
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="4 contributions on 1/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 2 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 2/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 3/12
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 4/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 5/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 6/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 1 commit"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 7/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="5 contributions on 8/12
+
+2026: 0 commits
+2025: 5 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="18 contributions on 9/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 14 commits
+2023: 4 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="7 contributions on 10/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 1 commit
+2023: 6 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="8 contributions on 11/12
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 6 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-300 dark:bg-emerald-700 hover:ring-1 hover:ring-gray-400 transition-all" title="7 contributions on 12/12
+
+2026: 0 commits
+2025: 3 commits
+2024: 0 commits
+2023: 4 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 13/12
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="5 contributions on 14/12
+
+2026: 0 commits
+2025: 5 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 15/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="4 contributions on 16/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 4 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 17/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="2 contributions on 18/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 19/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 20/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 21/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 22/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="0 contributions on 23/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 24/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-gray-100 dark:bg-gray-800 hover:ring-1 hover:ring-gray-400 transition-all" title="0 contributions on 25/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 0 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="1 contribution on 26/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div></div><div class="flex flex-col gap-[2px]"><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="2 contributions on 27/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="1 contribution on 28/12
+
+2026: 0 commits
+2025: 0 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="3 contributions on 29/12
+
+2026: 0 commits
+2025: 1 commit
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-transparent border border-dashed border-gray-300 dark:border-gray-600" title="4 contributions on 30/12
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 2 commits
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px] rounded-sm bg-emerald-100 dark:bg-emerald-900 hover:ring-1 hover:ring-gray-400 transition-all" title="3 contributions on 31/12
+
+2026: 0 commits
+2025: 2 commits
+2024: 0 commits
+2023: 1 commit
+2022: 0 commits
+2021: 0 commits
+2020: 0 commits"></div><div class="w-[10px] h-[10px]"></div><div class="w-[10px] h-[10px]"></div></div></div><div class="mt-3 text-xs text-gray-500"><div class="flex flex-row justify-between items-center"><div>1867 contributions All Time</div><div class="cursor-pointer  px-3 py-1 text-xs font-medium rounded-lg cursor-pointer flex items-center gap-2 border shadow-sm hover:shadow transition-all bg-green-50 text-green-700 border-green-200 dark:bg-green-900/30 dark:text-green-300 dark:border-green-800" title="Snake progress: 46% - Click to stop"><span class="font-semibold text-[11px] font-[GameFont] fon">SNAKE</span></div></div></div></div></div></div></div></div></div></div></div></div></div></section>
+
+
+que vem daqui entendes 
+
+{
+    "username": "MasteerRui",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75584975?v=4",
+    "totalStars": 90,
+    "publicRepos": 8,
+    "total_repos": 89,
+    "followers": 10,
+    "contributions": 1867,
+    "includesPrivateRepos": true,
+    "topLanguages": [
+        {
+            "name": "TypeScript",
+            "color": "#3178c6",
+            "size": 13150833,
+            "percentage": 67
+        },
+        {
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "size": 2187437,
+            "percentage": 11
+        },
+        {
+            "name": "Dart",
+            "color": "#00B4AB",
+            "size": 1872479,
+            "percentage": 10
+        },
+        {
+            "name": "CSS",
+            "color": "#663399",
+            "size": 1455734,
+            "percentage": 7
+        },
+        {
+            "name": "PHP",
+            "color": "#4F5D95",
+            "size": 533625,
+            "percentage": 3
+        },
+        {
+            "name": "Blade",
+            "color": "#f7523f",
+            "size": 413978,
+            "percentage": 2
+        }
+    ],
+    "contributionData": {
+        "2026-01-01": 5,
+        "2026-01-02": 2,
+        "2026-01-03": 0,
+        "2026-01-04": 5,
+        "2026-01-05": 0,
+        "2026-01-06": 1,
+        "2026-01-07": 19,
+        "2026-01-08": 2,
+        "2026-01-09": 0,
+        "2026-01-10": 0,
+        "2026-01-11": 0,
+        "2026-01-12": 0,
+        "2026-01-13": 9,
+        "2026-01-14": 3,
+        "2026-01-15": 6,
+        "2026-01-16": 1,
+        "2026-01-17": 0,
+        "2026-01-18": 1,
+        "2026-01-19": 2,
+        "2026-01-20": 0,
+        "2026-01-21": 0,
+        "2026-01-22": 0,
+        "2026-01-23": 0,
+        "2026-01-24": 0,
+        "2026-01-25": 0,
+        "2026-01-26": 3,
+        "2026-01-27": 0,
+        "2026-01-28": 0,
+        "2026-01-29": 0,
+        "2026-01-30": 0,
+        "2026-01-31": 1,
+        "2026-02-01": 0,
+        "2026-02-02": 0,
+        "2026-02-03": 8,
+        "2026-02-04": 13,
+        "2026-02-05": 4,
+        "2026-02-06": 2,
+        "2026-02-07": 0,
+        "2026-02-08": 1,
+        "2026-02-09": 2,
+        "2026-02-10": 4,
+        "2026-02-11": 3,
+        "2026-02-12": 4,
+        "2026-02-13": 10,
+        "2026-02-14": 0,
+        "2026-02-15": 0,
+        "2026-02-16": 0,
+        "2026-02-17": 3,
+        "2026-02-18": 5,
+        "2026-02-19": 3,
+        "2026-02-20": 7,
+        "2026-02-21": 2,
+        "2026-02-22": 0,
+        "2026-02-23": 0,
+        "2026-02-24": 0,
+        "2026-02-25": 0,
+        "2026-02-26": 0,
+        "2026-02-27": 0,
+        "2026-02-28": 0,
+        "2026-03-01": 0,
+        "2026-03-02": 0,
+        "2026-03-03": 0,
+        "2026-03-04": 0,
+        "2026-03-05": 0,
+        "2026-03-06": 0,
+        "2026-03-07": 0,
+        "2026-03-08": 0,
+        "2026-03-09": 0,
+        "2026-03-10": 0,
+        "2026-03-11": 0,
+        "2026-03-12": 0,
+        "2026-03-13": 0,
+        "2026-03-14": 0,
+        "2026-03-15": 0,
+        "2026-03-16": 0,
+        "2026-03-17": 0,
+        "2026-03-18": 0,
+        "2026-03-19": 0,
+        "2026-03-20": 0,
+        "2026-03-21": 0,
+        "2026-03-22": 0,
+        "2026-03-23": 0,
+        "2026-03-24": 0,
+        "2026-03-25": 0,
+        "2026-03-26": 0,
+        "2026-03-27": 0,
+        "2026-03-28": 0,
+        "2026-03-29": 0,
+        "2026-03-30": 0,
+        "2026-03-31": 0,
+        "2026-04-01": 0,
+        "2026-04-02": 0,
+        "2026-04-03": 0,
+        "2026-04-04": 0,
+        "2026-04-05": 0,
+        "2026-04-06": 0,
+        "2026-04-07": 0,
+        "2026-04-08": 0,
+        "2026-04-09": 0,
+        "2026-04-10": 0,
+        "2026-04-11": 0,
+        "2026-04-12": 0,
+        "2026-04-13": 0,
+        "2026-04-14": 0,
+        "2026-04-15": 0,
+        "2026-04-16": 0,
+        "2026-04-17": 0,
+        "2026-04-18": 0,
+        "2026-04-19": 0,
+        "2026-04-20": 0,
+        "2026-04-21": 0,
+        "2026-04-22": 0,
+        "2026-04-23": 0,
+        "2026-04-24": 0,
+        "2026-04-25": 0,
+        "2026-04-26": 0,
+        "2026-04-27": 0,
+        "2026-04-28": 0,
+        "2026-04-29": 0,
+        "2026-04-30": 0,
+        "2026-05-01": 0,
+        "2026-05-02": 0,
+        "2026-05-03": 0,
+        "2026-05-04": 0,
+        "2026-05-05": 0,
+        "2026-05-06": 0,
+        "2026-05-07": 0,
+        "2026-05-08": 0,
+        "2026-05-09": 0,
+        "2026-05-10": 0,
+        "2026-05-11": 0,
+        "2026-05-12": 0,
+        "2026-05-13": 0,
+        "2026-05-14": 0,
+        "2026-05-15": 0,
+        "2026-05-16": 0,
+        "2026-05-17": 0,
+        "2026-05-18": 0,
+        "2026-05-19": 0,
+        "2026-05-20": 0,
+        "2026-05-21": 0,
+        "2026-05-22": 0,
+        "2026-05-23": 0,
+        "2026-05-24": 0,
+        "2026-05-25": 0,
+        "2026-05-26": 0,
+        "2026-05-27": 0,
+        "2026-05-28": 0,
+        "2026-05-29": 0,
+        "2026-05-30": 0,
+        "2026-05-31": 0,
+        "2026-06-01": 0,
+        "2026-06-02": 0,
+        "2026-06-03": 0,
+        "2026-06-04": 0,
+        "2026-06-05": 0,
+        "2026-06-06": 0,
+        "2026-06-07": 0,
+        "2026-06-08": 0,
+        "2026-06-09": 0,
+        "2026-06-10": 0,
+        "2026-06-11": 0,
+        "2026-06-12": 0,
+        "2026-06-13": 0,
+        "2026-06-14": 0,
+        "2026-06-15": 0,
+        "2026-06-16": 0,
+        "2026-06-17": 0,
+        "2026-06-18": 0,
+        "2026-06-19": 0,
+        "2026-06-20": 0,
+        "2026-06-21": 0,
+        "2026-06-22": 0,
+        "2026-06-23": 0,
+        "2026-06-24": 0,
+        "2026-06-25": 0,
+        "2026-06-26": 0,
+        "2026-06-27": 0,
+        "2026-06-28": 0,
+        "2026-06-29": 0,
+        "2026-06-30": 0,
+        "2026-07-01": 0,
+        "2026-07-02": 0,
+        "2026-07-03": 0,
+        "2026-07-04": 0,
+        "2026-07-05": 0,
+        "2026-07-06": 0,
+        "2026-07-07": 0,
+        "2026-07-08": 0,
+        "2026-07-09": 0,
+        "2026-07-10": 0,
+        "2026-07-11": 0,
+        "2026-07-12": 0,
+        "2026-07-13": 0,
+        "2026-07-14": 0,
+        "2026-07-15": 0,
+        "2026-07-16": 0,
+        "2026-07-17": 0,
+        "2026-07-18": 0,
+        "2026-07-19": 0,
+        "2026-07-20": 0,
+        "2026-07-21": 0,
+        "2026-07-22": 0,
+        "2026-07-23": 0,
+        "2026-07-24": 0,
+        "2026-07-25": 0,
+        "2026-07-26": 0,
+        "2026-07-27": 0,
+        "2026-07-28": 0,
+        "2026-07-29": 0,
+        "2026-07-30": 0,
+        "2026-07-31": 0,
+        "2026-08-01": 0,
+        "2026-08-02": 0,
+        "2026-08-03": 0,
+        "2026-08-04": 0,
+        "2026-08-05": 0,
+        "2026-08-06": 0,
+        "2026-08-07": 0,
+        "2026-08-08": 0,
+        "2026-08-09": 0,
+        "2026-08-10": 0,
+        "2026-08-11": 0,
+        "2026-08-12": 0,
+        "2026-08-13": 0,
+        "2026-08-14": 0,
+        "2026-08-15": 0,
+        "2026-08-16": 0,
+        "2026-08-17": 0,
+        "2026-08-18": 0,
+        "2026-08-19": 0,
+        "2026-08-20": 0,
+        "2026-08-21": 0,
+        "2026-08-22": 0,
+        "2026-08-23": 0,
+        "2026-08-24": 0,
+        "2026-08-25": 0,
+        "2026-08-26": 0,
+        "2026-08-27": 0,
+        "2026-08-28": 0,
+        "2026-08-29": 0,
+        "2026-08-30": 0,
+        "2026-08-31": 0,
+        "2026-09-01": 0,
+        "2026-09-02": 0,
+        "2026-09-03": 0,
+        "2026-09-04": 0,
+        "2026-09-05": 0,
+        "2026-09-06": 0,
+        "2026-09-07": 0,
+        "2026-09-08": 0,
+        "2026-09-09": 0,
+        "2026-09-10": 0,
+        "2026-09-11": 0,
+        "2026-09-12": 0,
+        "2026-09-13": 0,
+        "2026-09-14": 0,
+        "2026-09-15": 0,
+        "2026-09-16": 0,
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0,
+        "2026-09-20": 0,
+        "2026-09-21": 0,
+        "2026-09-22": 0,
+        "2026-09-23": 0,
+        "2026-09-24": 0,
+        "2026-09-25": 0,
+        "2026-09-26": 0,
+        "2026-09-27": 0,
+        "2026-09-28": 0,
+        "2026-09-29": 0,
+        "2026-09-30": 0,
+        "2026-10-01": 0,
+        "2026-10-02": 0,
+        "2026-10-03": 0,
+        "2026-10-04": 0,
+        "2026-10-05": 0,
+        "2026-10-06": 0,
+        "2026-10-07": 0,
+        "2026-10-08": 0,
+        "2026-10-09": 0,
+        "2026-10-10": 0,
+        "2026-10-11": 0,
+        "2026-10-12": 0,
+        "2026-10-13": 0,
+        "2026-10-14": 0,
+        "2026-10-15": 0,
+        "2026-10-16": 0,
+        "2026-10-17": 0,
+        "2026-10-18": 0,
+        "2026-10-19": 0,
+        "2026-10-20": 0,
+        "2026-10-21": 0,
+        "2026-10-22": 0,
+        "2026-10-23": 0,
+        "2026-10-24": 0,
+        "2026-10-25": 0,
+        "2026-10-26": 0,
+        "2026-10-27": 0,
+        "2026-10-28": 0,
+        "2026-10-29": 0,
+        "2026-10-30": 0,
+        "2026-10-31": 0,
+        "2026-11-01": 0,
+        "2026-11-02": 0,
+        "2026-11-03": 0,
+        "2026-11-04": 0,
+        "2026-11-05": 0,
+        "2026-11-06": 0,
+        "2026-11-07": 0,
+        "2026-11-08": 0,
+        "2026-11-09": 0,
+        "2026-11-10": 0,
+        "2026-11-11": 0,
+        "2026-11-12": 0,
+        "2026-11-13": 0,
+        "2026-11-14": 0,
+        "2026-11-15": 0,
+        "2026-11-16": 0,
+        "2026-11-17": 0,
+        "2026-11-18": 0,
+        "2026-11-19": 0,
+        "2026-11-20": 0,
+        "2026-11-21": 0,
+        "2026-11-22": 0,
+        "2026-11-23": 0,
+        "2026-11-24": 0,
+        "2026-11-25": 0,
+        "2026-11-26": 0,
+        "2026-11-27": 0,
+        "2026-11-28": 0,
+        "2026-11-29": 0,
+        "2026-11-30": 0,
+        "2026-12-01": 0,
+        "2026-12-02": 0,
+        "2026-12-03": 0,
+        "2026-12-04": 0,
+        "2026-12-05": 0,
+        "2026-12-06": 0,
+        "2026-12-07": 0,
+        "2026-12-08": 0,
+        "2026-12-09": 0,
+        "2026-12-10": 0,
+        "2026-12-11": 0,
+        "2026-12-12": 0,
+        "2026-12-13": 0,
+        "2026-12-14": 0,
+        "2026-12-15": 0,
+        "2026-12-16": 0,
+        "2026-12-17": 0,
+        "2026-12-18": 0,
+        "2026-12-19": 0,
+        "2026-12-20": 0,
+        "2026-12-21": 0,
+        "2026-12-22": 0,
+        "2026-12-23": 0,
+        "2026-12-24": 0,
+        "2026-12-25": 0,
+        "2026-12-26": 0,
+        "2026-12-27": 0,
+        "2026-12-28": 0,
+        "2026-12-29": 0,
+        "2026-12-30": 0,
+        "2026-12-31": 0,
+        "2025-01-01": 1,
+        "2025-01-02": 0,
+        "2025-01-03": 0,
+        "2025-01-04": 0,
+        "2025-01-05": 0,
+        "2025-01-06": 0,
+        "2025-01-07": 0,
+        "2025-01-08": 0,
+        "2025-01-09": 0,
+        "2025-01-10": 0,
+        "2025-01-11": 1,
+        "2025-01-12": 0,
+        "2025-01-13": 2,
+        "2025-01-14": 0,
+        "2025-01-15": 0,
+        "2025-01-16": 0,
+        "2025-01-17": 0,
+        "2025-01-18": 0,
+        "2025-01-19": 0,
+        "2025-01-20": 0,
+        "2025-01-21": 0,
+        "2025-01-22": 0,
+        "2025-01-23": 0,
+        "2025-01-24": 0,
+        "2025-01-25": 0,
+        "2025-01-26": 0,
+        "2025-01-27": 0,
+        "2025-01-28": 0,
+        "2025-01-29": 1,
+        "2025-01-30": 0,
+        "2025-01-31": 0,
+        "2025-02-01": 0,
+        "2025-02-02": 0,
+        "2025-02-03": 0,
+        "2025-02-04": 0,
+        "2025-02-05": 0,
+        "2025-02-06": 0,
+        "2025-02-07": 2,
+        "2025-02-08": 0,
+        "2025-02-09": 2,
+        "2025-02-10": 0,
+        "2025-02-11": 0,
+        "2025-02-12": 0,
+        "2025-02-13": 0,
+        "2025-02-14": 0,
+        "2025-02-15": 0,
+        "2025-02-16": 0,
+        "2025-02-17": 0,
+        "2025-02-18": 0,
+        "2025-02-19": 1,
+        "2025-02-20": 1,
+        "2025-02-21": 1,
+        "2025-02-22": 0,
+        "2025-02-23": 0,
+        "2025-02-24": 1,
+        "2025-02-25": 0,
+        "2025-02-26": 0,
+        "2025-02-27": 3,
+        "2025-02-28": 1,
+        "2025-03-01": 3,
+        "2025-03-02": 2,
+        "2025-03-03": 1,
+        "2025-03-04": 0,
+        "2025-03-05": 1,
+        "2025-03-06": 1,
+        "2025-03-07": 1,
+        "2025-03-08": 0,
+        "2025-03-09": 2,
+        "2025-03-10": 0,
+        "2025-03-11": 0,
+        "2025-03-12": 4,
+        "2025-03-13": 2,
+        "2025-03-14": 0,
+        "2025-03-15": 0,
+        "2025-03-16": 0,
+        "2025-03-17": 0,
+        "2025-03-18": 0,
+        "2025-03-19": 0,
+        "2025-03-20": 0,
+        "2025-03-21": 0,
+        "2025-03-22": 0,
+        "2025-03-23": 0,
+        "2025-03-24": 1,
+        "2025-03-25": 1,
+        "2025-03-26": 0,
+        "2025-03-27": 0,
+        "2025-03-28": 0,
+        "2025-03-29": 0,
+        "2025-03-30": 0,
+        "2025-03-31": 0,
+        "2025-04-01": 0,
+        "2025-04-02": 0,
+        "2025-04-03": 0,
+        "2025-04-04": 0,
+        "2025-04-05": 0,
+        "2025-04-06": 0,
+        "2025-04-07": 0,
+        "2025-04-08": 0,
+        "2025-04-09": 3,
+        "2025-04-10": 1,
+        "2025-04-11": 0,
+        "2025-04-12": 0,
+        "2025-04-13": 1,
+        "2025-04-14": 1,
+        "2025-04-15": 1,
+        "2025-04-16": 2,
+        "2025-04-17": 0,
+        "2025-04-18": 0,
+        "2025-04-19": 0,
+        "2025-04-20": 1,
+        "2025-04-21": 0,
+        "2025-04-22": 0,
+        "2025-04-23": 2,
+        "2025-04-24": 4,
+        "2025-04-25": 7,
+        "2025-04-26": 17,
+        "2025-04-27": 17,
+        "2025-04-28": 0,
+        "2025-04-29": 0,
+        "2025-04-30": 2,
+        "2025-05-01": 1,
+        "2025-05-02": 0,
+        "2025-05-03": 3,
+        "2025-05-04": 0,
+        "2025-05-05": 0,
+        "2025-05-06": 2,
+        "2025-05-07": 3,
+        "2025-05-08": 0,
+        "2025-05-09": 1,
+        "2025-05-10": 2,
+        "2025-05-11": 2,
+        "2025-05-12": 4,
+        "2025-05-13": 0,
+        "2025-05-14": 3,
+        "2025-05-15": 0,
+        "2025-05-16": 0,
+        "2025-05-17": 0,
+        "2025-05-18": 0,
+        "2025-05-19": 0,
+        "2025-05-20": 0,
+        "2025-05-21": 0,
+        "2025-05-22": 0,
+        "2025-05-23": 0,
+        "2025-05-24": 0,
+        "2025-05-25": 0,
+        "2025-05-26": 0,
+        "2025-05-27": 0,
+        "2025-05-28": 0,
+        "2025-05-29": 0,
+        "2025-05-30": 0,
+        "2025-05-31": 0,
+        "2025-06-01": 1,
+        "2025-06-02": 0,
+        "2025-06-03": 0,
+        "2025-06-04": 0,
+        "2025-06-05": 0,
+        "2025-06-06": 0,
+        "2025-06-07": 2,
+        "2025-06-08": 0,
+        "2025-06-09": 0,
+        "2025-06-10": 0,
+        "2025-06-11": 0,
+        "2025-06-12": 0,
+        "2025-06-13": 0,
+        "2025-06-14": 0,
+        "2025-06-15": 0,
+        "2025-06-16": 0,
+        "2025-06-17": 0,
+        "2025-06-18": 0,
+        "2025-06-19": 0,
+        "2025-06-20": 0,
+        "2025-06-21": 0,
+        "2025-06-22": 0,
+        "2025-06-23": 4,
+        "2025-06-24": 0,
+        "2025-06-25": 9,
+        "2025-06-26": 5,
+        "2025-06-27": 4,
+        "2025-06-28": 0,
+        "2025-06-29": 11,
+        "2025-06-30": 5,
+        "2025-07-01": 0,
+        "2025-07-02": 0,
+        "2025-07-03": 3,
+        "2025-07-04": 1,
+        "2025-07-05": 0,
+        "2025-07-06": 0,
+        "2025-07-07": 1,
+        "2025-07-08": 0,
+        "2025-07-09": 0,
+        "2025-07-10": 0,
+        "2025-07-11": 0,
+        "2025-07-12": 1,
+        "2025-07-13": 2,
+        "2025-07-14": 2,
+        "2025-07-15": 0,
+        "2025-07-16": 2,
+        "2025-07-17": 1,
+        "2025-07-18": 0,
+        "2025-07-19": 2,
+        "2025-07-20": 0,
+        "2025-07-21": 2,
+        "2025-07-22": 3,
+        "2025-07-23": 1,
+        "2025-07-24": 2,
+        "2025-07-25": 0,
+        "2025-07-26": 0,
+        "2025-07-27": 5,
+        "2025-07-28": 0,
+        "2025-07-29": 4,
+        "2025-07-30": 2,
+        "2025-07-31": 0,
+        "2025-08-01": 2,
+        "2025-08-02": 0,
+        "2025-08-03": 0,
+        "2025-08-04": 1,
+        "2025-08-05": 0,
+        "2025-08-06": 1,
+        "2025-08-07": 1,
+        "2025-08-08": 1,
+        "2025-08-09": 13,
+        "2025-08-10": 5,
+        "2025-08-11": 0,
+        "2025-08-12": 1,
+        "2025-08-13": 1,
+        "2025-08-14": 0,
+        "2025-08-15": 1,
+        "2025-08-16": 0,
+        "2025-08-17": 0,
+        "2025-08-18": 1,
+        "2025-08-19": 0,
+        "2025-08-20": 0,
+        "2025-08-21": 0,
+        "2025-08-22": 9,
+        "2025-08-23": 2,
+        "2025-08-24": 7,
+        "2025-08-25": 5,
+        "2025-08-26": 5,
+        "2025-08-27": 22,
+        "2025-08-28": 6,
+        "2025-08-29": 4,
+        "2025-08-30": 12,
+        "2025-08-31": 3,
+        "2025-09-01": 0,
+        "2025-09-02": 18,
+        "2025-09-03": 1,
+        "2025-09-04": 6,
+        "2025-09-05": 3,
+        "2025-09-06": 0,
+        "2025-09-07": 1,
+        "2025-09-08": 2,
+        "2025-09-09": 1,
+        "2025-09-10": 2,
+        "2025-09-11": 3,
+        "2025-09-12": 1,
+        "2025-09-13": 2,
+        "2025-09-14": 5,
+        "2025-09-15": 16,
+        "2025-09-16": 23,
+        "2025-09-17": 8,
+        "2025-09-18": 3,
+        "2025-09-19": 9,
+        "2025-09-20": 1,
+        "2025-09-21": 18,
+        "2025-09-22": 0,
+        "2025-09-23": 0,
+        "2025-09-24": 0,
+        "2025-09-25": 0,
+        "2025-09-26": 0,
+        "2025-09-27": 0,
+        "2025-09-28": 0,
+        "2025-09-29": 4,
+        "2025-09-30": 0,
+        "2025-10-01": 0,
+        "2025-10-02": 11,
+        "2025-10-03": 20,
+        "2025-10-04": 0,
+        "2025-10-05": 6,
+        "2025-10-06": 1,
+        "2025-10-07": 1,
+        "2025-10-08": 3,
+        "2025-10-09": 0,
+        "2025-10-10": 0,
+        "2025-10-11": 0,
+        "2025-10-12": 0,
+        "2025-10-13": 3,
+        "2025-10-14": 8,
+        "2025-10-15": 1,
+        "2025-10-16": 0,
+        "2025-10-17": 1,
+        "2025-10-18": 0,
+        "2025-10-19": 0,
+        "2025-10-20": 0,
+        "2025-10-21": 1,
+        "2025-10-22": 3,
+        "2025-10-23": 2,
+        "2025-10-24": 2,
+        "2025-10-25": 0,
+        "2025-10-26": 0,
+        "2025-10-27": 0,
+        "2025-10-28": 0,
+        "2025-10-29": 1,
+        "2025-10-30": 0,
+        "2025-10-31": 0,
+        "2025-11-01": 2,
+        "2025-11-02": 0,
+        "2025-11-03": 1,
+        "2025-11-04": 0,
+        "2025-11-05": 0,
+        "2025-11-06": 0,
+        "2025-11-07": 6,
+        "2025-11-08": 1,
+        "2025-11-09": 1,
+        "2025-11-10": 1,
+        "2025-11-11": 6,
+        "2025-11-12": 5,
+        "2025-11-13": 3,
+        "2025-11-14": 0,
+        "2025-11-15": 0,
+        "2025-11-16": 2,
+        "2025-11-17": 6,
+        "2025-11-18": 3,
+        "2025-11-19": 5,
+        "2025-11-20": 3,
+        "2025-11-21": 3,
+        "2025-11-22": 0,
+        "2025-11-23": 0,
+        "2025-11-24": 2,
+        "2025-11-25": 0,
+        "2025-11-26": 2,
+        "2025-11-27": 0,
+        "2025-11-28": 0,
+        "2025-11-29": 0,
+        "2025-11-30": 0,
+        "2025-12-01": 0,
+        "2025-12-02": 0,
+        "2025-12-03": 2,
+        "2025-12-04": 0,
+        "2025-12-05": 0,
+        "2025-12-06": 0,
+        "2025-12-07": 0,
+        "2025-12-08": 5,
+        "2025-12-09": 0,
+        "2025-12-10": 0,
+        "2025-12-11": 2,
+        "2025-12-12": 3,
+        "2025-12-13": 2,
+        "2025-12-14": 5,
+        "2025-12-15": 0,
+        "2025-12-16": 0,
+        "2025-12-17": 0,
+        "2025-12-18": 0,
+        "2025-12-19": 0,
+        "2025-12-20": 0,
+        "2025-12-21": 0,
+        "2025-12-22": 0,
+        "2025-12-23": 0,
+        "2025-12-24": 0,
+        "2025-12-25": 0,
+        "2025-12-26": 0,
+        "2025-12-27": 0,
+        "2025-12-28": 0,
+        "2025-12-29": 1,
+        "2025-12-30": 2,
+        "2025-12-31": 2,
+        "2024-01-01": 0,
+        "2024-01-02": 0,
+        "2024-01-03": 0,
+        "2024-01-04": 1,
+        "2024-01-05": 5,
+        "2024-01-06": 2,
+        "2024-01-07": 3,
+        "2024-01-08": 0,
+        "2024-01-09": 1,
+        "2024-01-10": 9,
+        "2024-01-11": 1,
+        "2024-01-12": 0,
+        "2024-01-13": 0,
+        "2024-01-14": 0,
+        "2024-01-15": 1,
+        "2024-01-16": 0,
+        "2024-01-17": 0,
+        "2024-01-18": 0,
+        "2024-01-19": 0,
+        "2024-01-20": 0,
+        "2024-01-21": 0,
+        "2024-01-22": 0,
+        "2024-01-23": 2,
+        "2024-01-24": 1,
+        "2024-01-25": 0,
+        "2024-01-26": 0,
+        "2024-01-27": 0,
+        "2024-01-28": 3,
+        "2024-01-29": 3,
+        "2024-01-30": 2,
+        "2024-01-31": 0,
+        "2024-02-01": 3,
+        "2024-02-02": 2,
+        "2024-02-03": 3,
+        "2024-02-04": 3,
+        "2024-02-05": 1,
+        "2024-02-06": 1,
+        "2024-02-07": 2,
+        "2024-02-08": 2,
+        "2024-02-09": 0,
+        "2024-02-10": 1,
+        "2024-02-11": 1,
+        "2024-02-12": 7,
+        "2024-02-13": 0,
+        "2024-02-14": 0,
+        "2024-02-15": 8,
+        "2024-02-16": 4,
+        "2024-02-17": 4,
+        "2024-02-18": 5,
+        "2024-02-19": 8,
+        "2024-02-20": 3,
+        "2024-02-21": 9,
+        "2024-02-22": 7,
+        "2024-02-23": 1,
+        "2024-02-24": 3,
+        "2024-02-25": 1,
+        "2024-02-26": 10,
+        "2024-02-27": 2,
+        "2024-02-28": 0,
+        "2024-02-29": 0,
+        "2024-03-01": 1,
+        "2024-03-02": 11,
+        "2024-03-03": 2,
+        "2024-03-04": 3,
+        "2024-03-05": 5,
+        "2024-03-06": 0,
+        "2024-03-07": 1,
+        "2024-03-08": 14,
+        "2024-03-09": 4,
+        "2024-03-10": 1,
+        "2024-03-11": 6,
+        "2024-03-12": 12,
+        "2024-03-13": 1,
+        "2024-03-14": 2,
+        "2024-03-15": 0,
+        "2024-03-16": 1,
+        "2024-03-17": 2,
+        "2024-03-18": 1,
+        "2024-03-19": 1,
+        "2024-03-20": 0,
+        "2024-03-21": 11,
+        "2024-03-22": 0,
+        "2024-03-23": 2,
+        "2024-03-24": 0,
+        "2024-03-25": 0,
+        "2024-03-26": 0,
+        "2024-03-27": 0,
+        "2024-03-28": 0,
+        "2024-03-29": 0,
+        "2024-03-30": 3,
+        "2024-03-31": 0,
+        "2024-04-01": 3,
+        "2024-04-02": 2,
+        "2024-04-03": 4,
+        "2024-04-04": 1,
+        "2024-04-05": 0,
+        "2024-04-06": 7,
+        "2024-04-07": 8,
+        "2024-04-08": 0,
+        "2024-04-09": 0,
+        "2024-04-10": 0,
+        "2024-04-11": 1,
+        "2024-04-12": 0,
+        "2024-04-13": 0,
+        "2024-04-14": 5,
+        "2024-04-15": 2,
+        "2024-04-16": 0,
+        "2024-04-17": 1,
+        "2024-04-18": 0,
+        "2024-04-19": 2,
+        "2024-04-20": 0,
+        "2024-04-21": 1,
+        "2024-04-22": 0,
+        "2024-04-23": 0,
+        "2024-04-24": 0,
+        "2024-04-25": 0,
+        "2024-04-26": 0,
+        "2024-04-27": 0,
+        "2024-04-28": 0,
+        "2024-04-29": 0,
+        "2024-04-30": 0,
+        "2024-05-01": 0,
+        "2024-05-02": 6,
+        "2024-05-03": 0,
+        "2024-05-04": 0,
+        "2024-05-05": 0,
+        "2024-05-06": 0,
+        "2024-05-07": 2,
+        "2024-05-08": 0,
+        "2024-05-09": 0,
+        "2024-05-10": 0,
+        "2024-05-11": 0,
+        "2024-05-12": 0,
+        "2024-05-13": 0,
+        "2024-05-14": 0,
+        "2024-05-15": 2,
+        "2024-05-16": 1,
+        "2024-05-17": 2,
+        "2024-05-18": 2,
+        "2024-05-19": 1,
+        "2024-05-20": 1,
+        "2024-05-21": 0,
+        "2024-05-22": 0,
+        "2024-05-23": 0,
+        "2024-05-24": 0,
+        "2024-05-25": 0,
+        "2024-05-26": 0,
+        "2024-05-27": 0,
+        "2024-05-28": 2,
+        "2024-05-29": 1,
+        "2024-05-30": 1,
+        "2024-05-31": 1,
+        "2024-06-01": 0,
+        "2024-06-02": 0,
+        "2024-06-03": 1,
+        "2024-06-04": 2,
+        "2024-06-05": 1,
+        "2024-06-06": 1,
+        "2024-06-07": 1,
+        "2024-06-08": 0,
+        "2024-06-09": 0,
+        "2024-06-10": 4,
+        "2024-06-11": 1,
+        "2024-06-12": 0,
+        "2024-06-13": 4,
+        "2024-06-14": 3,
+        "2024-06-15": 0,
+        "2024-06-16": 3,
+        "2024-06-17": 0,
+        "2024-06-18": 1,
+        "2024-06-19": 0,
+        "2024-06-20": 7,
+        "2024-06-21": 0,
+        "2024-06-22": 0,
+        "2024-06-23": 0,
+        "2024-06-24": 0,
+        "2024-06-25": 0,
+        "2024-06-26": 0,
+        "2024-06-27": 0,
+        "2024-06-28": 0,
+        "2024-06-29": 0,
+        "2024-06-30": 0,
+        "2024-07-01": 0,
+        "2024-07-02": 5,
+        "2024-07-03": 0,
+        "2024-07-04": 0,
+        "2024-07-05": 0,
+        "2024-07-06": 0,
+        "2024-07-07": 2,
+        "2024-07-08": 1,
+        "2024-07-09": 0,
+        "2024-07-10": 0,
+        "2024-07-11": 0,
+        "2024-07-12": 0,
+        "2024-07-13": 0,
+        "2024-07-14": 0,
+        "2024-07-15": 1,
+        "2024-07-16": 0,
+        "2024-07-17": 0,
+        "2024-07-18": 0,
+        "2024-07-19": 0,
+        "2024-07-20": 1,
+        "2024-07-21": 0,
+        "2024-07-22": 0,
+        "2024-07-23": 0,
+        "2024-07-24": 1,
+        "2024-07-25": 1,
+        "2024-07-26": 1,
+        "2024-07-27": 1,
+        "2024-07-28": 1,
+        "2024-07-29": 0,
+        "2024-07-30": 0,
+        "2024-07-31": 0,
+        "2024-08-01": 0,
+        "2024-08-02": 0,
+        "2024-08-03": 0,
+        "2024-08-04": 0,
+        "2024-08-05": 3,
+        "2024-08-06": 1,
+        "2024-08-07": 0,
+        "2024-08-08": 1,
+        "2024-08-09": 0,
+        "2024-08-10": 1,
+        "2024-08-11": 0,
+        "2024-08-12": 1,
+        "2024-08-13": 4,
+        "2024-08-14": 2,
+        "2024-08-15": 0,
+        "2024-08-16": 0,
+        "2024-08-17": 2,
+        "2024-08-18": 1,
+        "2024-08-19": 0,
+        "2024-08-20": 1,
+        "2024-08-21": 0,
+        "2024-08-22": 0,
+        "2024-08-23": 0,
+        "2024-08-24": 1,
+        "2024-08-25": 3,
+        "2024-08-26": 2,
+        "2024-08-27": 0,
+        "2024-08-28": 3,
+        "2024-08-29": 0,
+        "2024-08-30": 1,
+        "2024-08-31": 0,
+        "2024-09-01": 0,
+        "2024-09-02": 0,
+        "2024-09-03": 2,
+        "2024-09-04": 1,
+        "2024-09-05": 0,
+        "2024-09-06": 0,
+        "2024-09-07": 0,
+        "2024-09-08": 2,
+        "2024-09-09": 1,
+        "2024-09-10": 0,
+        "2024-09-11": 0,
+        "2024-09-12": 0,
+        "2024-09-13": 0,
+        "2024-09-14": 2,
+        "2024-09-15": 1,
+        "2024-09-16": 6,
+        "2024-09-17": 0,
+        "2024-09-18": 0,
+        "2024-09-19": 0,
+        "2024-09-20": 0,
+        "2024-09-21": 0,
+        "2024-09-22": 1,
+        "2024-09-23": 0,
+        "2024-09-24": 7,
+        "2024-09-25": 0,
+        "2024-09-26": 2,
+        "2024-09-27": 4,
+        "2024-09-28": 1,
+        "2024-09-29": 5,
+        "2024-09-30": 0,
+        "2024-10-01": 12,
+        "2024-10-02": 0,
+        "2024-10-03": 0,
+        "2024-10-04": 0,
+        "2024-10-05": 3,
+        "2024-10-06": 1,
+        "2024-10-07": 0,
+        "2024-10-08": 7,
+        "2024-10-09": 0,
+        "2024-10-10": 0,
+        "2024-10-11": 0,
+        "2024-10-12": 0,
+        "2024-10-13": 0,
+        "2024-10-14": 1,
+        "2024-10-15": 2,
+        "2024-10-16": 1,
+        "2024-10-17": 0,
+        "2024-10-18": 0,
+        "2024-10-19": 0,
+        "2024-10-20": 0,
+        "2024-10-21": 0,
+        "2024-10-22": 0,
+        "2024-10-23": 0,
+        "2024-10-24": 0,
+        "2024-10-25": 0,
+        "2024-10-26": 0,
+        "2024-10-27": 2,
+        "2024-10-28": 1,
+        "2024-10-29": 0,
+        "2024-10-30": 0,
+        "2024-10-31": 0,
+        "2024-11-01": 0,
+        "2024-11-02": 1,
+        "2024-11-03": 0,
+        "2024-11-04": 0,
+        "2024-11-05": 0,
+        "2024-11-06": 0,
+        "2024-11-07": 0,
+        "2024-11-08": 0,
+        "2024-11-09": 0,
+        "2024-11-10": 0,
+        "2024-11-11": 0,
+        "2024-11-12": 0,
+        "2024-11-13": 0,
+        "2024-11-14": 0,
+        "2024-11-15": 0,
+        "2024-11-16": 0,
+        "2024-11-17": 1,
+        "2024-11-18": 4,
+        "2024-11-19": 0,
+        "2024-11-20": 0,
+        "2024-11-21": 1,
+        "2024-11-22": 0,
+        "2024-11-23": 0,
+        "2024-11-24": 0,
+        "2024-11-25": 0,
+        "2024-11-26": 0,
+        "2024-11-27": 0,
+        "2024-11-28": 0,
+        "2024-11-29": 0,
+        "2024-11-30": 0,
+        "2024-12-01": 2,
+        "2024-12-02": 1,
+        "2024-12-03": 0,
+        "2024-12-04": 0,
+        "2024-12-05": 0,
+        "2024-12-06": 0,
+        "2024-12-07": 0,
+        "2024-12-08": 0,
+        "2024-12-09": 14,
+        "2024-12-10": 1,
+        "2024-12-11": 0,
+        "2024-12-12": 0,
+        "2024-12-13": 0,
+        "2024-12-14": 0,
+        "2024-12-15": 0,
+        "2024-12-16": 0,
+        "2024-12-17": 0,
+        "2024-12-18": 0,
+        "2024-12-19": 0,
+        "2024-12-20": 0,
+        "2024-12-21": 0,
+        "2024-12-22": 0,
+        "2024-12-23": 0,
+        "2024-12-24": 0,
+        "2024-12-25": 0,
+        "2024-12-26": 0,
+        "2024-12-27": 0,
+        "2024-12-28": 0,
+        "2024-12-29": 0,
+        "2024-12-30": 0,
+        "2024-12-31": 0,
+        "2023-01-01": 0,
+        "2023-01-02": 0,
+        "2023-01-03": 0,
+        "2023-01-04": 0,
+        "2023-01-05": 0,
+        "2023-01-06": 0,
+        "2023-01-07": 0,
+        "2023-01-08": 0,
+        "2023-01-09": 0,
+        "2023-01-10": 0,
+        "2023-01-11": 0,
+        "2023-01-12": 0,
+        "2023-01-13": 0,
+        "2023-01-14": 0,
+        "2023-01-15": 0,
+        "2023-01-16": 0,
+        "2023-01-17": 0,
+        "2023-01-18": 3,
+        "2023-01-19": 0,
+        "2023-01-20": 0,
+        "2023-01-21": 0,
+        "2023-01-22": 0,
+        "2023-01-23": 0,
+        "2023-01-24": 30,
+        "2023-01-25": 17,
+        "2023-01-26": 8,
+        "2023-01-27": 1,
+        "2023-01-28": 1,
+        "2023-01-29": 1,
+        "2023-01-30": 1,
+        "2023-01-31": 0,
+        "2023-02-01": 0,
+        "2023-02-02": 0,
+        "2023-02-03": 0,
+        "2023-02-04": 1,
+        "2023-02-05": 0,
+        "2023-02-06": 0,
+        "2023-02-07": 0,
+        "2023-02-08": 0,
+        "2023-02-09": 0,
+        "2023-02-10": 0,
+        "2023-02-11": 0,
+        "2023-02-12": 1,
+        "2023-02-13": 0,
+        "2023-02-14": 0,
+        "2023-02-15": 0,
+        "2023-02-16": 0,
+        "2023-02-17": 0,
+        "2023-02-18": 0,
+        "2023-02-19": 2,
+        "2023-02-20": 1,
+        "2023-02-21": 0,
+        "2023-02-22": 3,
+        "2023-02-23": 0,
+        "2023-02-24": 0,
+        "2023-02-25": 0,
+        "2023-02-26": 0,
+        "2023-02-27": 0,
+        "2023-02-28": 0,
+        "2023-03-01": 0,
+        "2023-03-02": 0,
+        "2023-03-03": 0,
+        "2023-03-04": 0,
+        "2023-03-05": 1,
+        "2023-03-06": 0,
+        "2023-03-07": 0,
+        "2023-03-08": 0,
+        "2023-03-09": 0,
+        "2023-03-10": 0,
+        "2023-03-11": 0,
+        "2023-03-12": 0,
+        "2023-03-13": 0,
+        "2023-03-14": 0,
+        "2023-03-15": 0,
+        "2023-03-16": 0,
+        "2023-03-17": 0,
+        "2023-03-18": 0,
+        "2023-03-19": 0,
+        "2023-03-20": 0,
+        "2023-03-21": 0,
+        "2023-03-22": 0,
+        "2023-03-23": 0,
+        "2023-03-24": 0,
+        "2023-03-25": 0,
+        "2023-03-26": 0,
+        "2023-03-27": 0,
+        "2023-03-28": 0,
+        "2023-03-29": 0,
+        "2023-03-30": 0,
+        "2023-03-31": 0,
+        "2023-04-01": 0,
+        "2023-04-02": 0,
+        "2023-04-03": 0,
+        "2023-04-04": 0,
+        "2023-04-05": 0,
+        "2023-04-06": 0,
+        "2023-04-07": 0,
+        "2023-04-08": 0,
+        "2023-04-09": 0,
+        "2023-04-10": 1,
+        "2023-04-11": 0,
+        "2023-04-12": 0,
+        "2023-04-13": 0,
+        "2023-04-14": 6,
+        "2023-04-15": 0,
+        "2023-04-16": 1,
+        "2023-04-17": 0,
+        "2023-04-18": 0,
+        "2023-04-19": 0,
+        "2023-04-20": 0,
+        "2023-04-21": 0,
+        "2023-04-22": 1,
+        "2023-04-23": 9,
+        "2023-04-24": 0,
+        "2023-04-25": 2,
+        "2023-04-26": 0,
+        "2023-04-27": 0,
+        "2023-04-28": 0,
+        "2023-04-29": 2,
+        "2023-04-30": 1,
+        "2023-05-01": 3,
+        "2023-05-02": 2,
+        "2023-05-03": 1,
+        "2023-05-04": 0,
+        "2023-05-05": 0,
+        "2023-05-06": 0,
+        "2023-05-07": 0,
+        "2023-05-08": 0,
+        "2023-05-09": 0,
+        "2023-05-10": 0,
+        "2023-05-11": 0,
+        "2023-05-12": 0,
+        "2023-05-13": 2,
+        "2023-05-14": 1,
+        "2023-05-15": 1,
+        "2023-05-16": 0,
+        "2023-05-17": 0,
+        "2023-05-18": 0,
+        "2023-05-19": 0,
+        "2023-05-20": 1,
+        "2023-05-21": 0,
+        "2023-05-22": 0,
+        "2023-05-23": 0,
+        "2023-05-24": 0,
+        "2023-05-25": 1,
+        "2023-05-26": 0,
+        "2023-05-27": 0,
+        "2023-05-28": 0,
+        "2023-05-29": 0,
+        "2023-05-30": 0,
+        "2023-05-31": 0,
+        "2023-06-01": 0,
+        "2023-06-02": 1,
+        "2023-06-03": 1,
+        "2023-06-04": 0,
+        "2023-06-05": 3,
+        "2023-06-06": 0,
+        "2023-06-07": 0,
+        "2023-06-08": 0,
+        "2023-06-09": 0,
+        "2023-06-10": 0,
+        "2023-06-11": 0,
+        "2023-06-12": 7,
+        "2023-06-13": 9,
+        "2023-06-14": 13,
+        "2023-06-15": 0,
+        "2023-06-16": 2,
+        "2023-06-17": 1,
+        "2023-06-18": 0,
+        "2023-06-19": 9,
+        "2023-06-20": 8,
+        "2023-06-21": 7,
+        "2023-06-22": 1,
+        "2023-06-23": 10,
+        "2023-06-24": 8,
+        "2023-06-25": 21,
+        "2023-06-26": 35,
+        "2023-06-27": 6,
+        "2023-06-28": 5,
+        "2023-06-29": 0,
+        "2023-06-30": 0,
+        "2023-07-01": 1,
+        "2023-07-02": 2,
+        "2023-07-03": 1,
+        "2023-07-04": 0,
+        "2023-07-05": 6,
+        "2023-07-06": 1,
+        "2023-07-07": 3,
+        "2023-07-08": 0,
+        "2023-07-09": 0,
+        "2023-07-10": 5,
+        "2023-07-11": 3,
+        "2023-07-12": 6,
+        "2023-07-13": 5,
+        "2023-07-14": 3,
+        "2023-07-15": 0,
+        "2023-07-16": 0,
+        "2023-07-17": 0,
+        "2023-07-18": 2,
+        "2023-07-19": 3,
+        "2023-07-20": 0,
+        "2023-07-21": 0,
+        "2023-07-22": 2,
+        "2023-07-23": 0,
+        "2023-07-24": 0,
+        "2023-07-25": 0,
+        "2023-07-26": 2,
+        "2023-07-27": 2,
+        "2023-07-28": 0,
+        "2023-07-29": 2,
+        "2023-07-30": 1,
+        "2023-07-31": 1,
+        "2023-08-01": 0,
+        "2023-08-02": 0,
+        "2023-08-03": 0,
+        "2023-08-04": 1,
+        "2023-08-05": 5,
+        "2023-08-06": 3,
+        "2023-08-07": 4,
+        "2023-08-08": 1,
+        "2023-08-09": 1,
+        "2023-08-10": 3,
+        "2023-08-11": 1,
+        "2023-08-12": 1,
+        "2023-08-13": 1,
+        "2023-08-14": 3,
+        "2023-08-15": 3,
+        "2023-08-16": 6,
+        "2023-08-17": 22,
+        "2023-08-18": 0,
+        "2023-08-19": 2,
+        "2023-08-20": 6,
+        "2023-08-21": 5,
+        "2023-08-22": 0,
+        "2023-08-23": 2,
+        "2023-08-24": 1,
+        "2023-08-25": 1,
+        "2023-08-26": 3,
+        "2023-08-27": 1,
+        "2023-08-28": 16,
+        "2023-08-29": 6,
+        "2023-08-30": 2,
+        "2023-08-31": 3,
+        "2023-09-01": 2,
+        "2023-09-02": 1,
+        "2023-09-03": 1,
+        "2023-09-04": 3,
+        "2023-09-05": 11,
+        "2023-09-06": 3,
+        "2023-09-07": 0,
+        "2023-09-08": 0,
+        "2023-09-09": 14,
+        "2023-09-10": 9,
+        "2023-09-11": 5,
+        "2023-09-12": 4,
+        "2023-09-13": 1,
+        "2023-09-14": 3,
+        "2023-09-15": 31,
+        "2023-09-16": 1,
+        "2023-09-17": 4,
+        "2023-09-18": 2,
+        "2023-09-19": 2,
+        "2023-09-20": 1,
+        "2023-09-21": 2,
+        "2023-09-22": 3,
+        "2023-09-23": 11,
+        "2023-09-24": 1,
+        "2023-09-25": 3,
+        "2023-09-26": 7,
+        "2023-09-27": 1,
+        "2023-09-28": 4,
+        "2023-09-29": 0,
+        "2023-09-30": 2,
+        "2023-10-01": 2,
+        "2023-10-02": 4,
+        "2023-10-03": 10,
+        "2023-10-04": 0,
+        "2023-10-05": 0,
+        "2023-10-06": 1,
+        "2023-10-07": 0,
+        "2023-10-08": 1,
+        "2023-10-09": 1,
+        "2023-10-10": 2,
+        "2023-10-11": 0,
+        "2023-10-12": 7,
+        "2023-10-13": 0,
+        "2023-10-14": 0,
+        "2023-10-15": 6,
+        "2023-10-16": 0,
+        "2023-10-17": 0,
+        "2023-10-18": 0,
+        "2023-10-19": 0,
+        "2023-10-20": 5,
+        "2023-10-21": 6,
+        "2023-10-22": 4,
+        "2023-10-23": 2,
+        "2023-10-24": 0,
+        "2023-10-25": 2,
+        "2023-10-26": 0,
+        "2023-10-27": 0,
+        "2023-10-28": 8,
+        "2023-10-29": 7,
+        "2023-10-30": 4,
+        "2023-10-31": 2,
+        "2023-11-01": 2,
+        "2023-11-02": 0,
+        "2023-11-03": 5,
+        "2023-11-04": 4,
+        "2023-11-05": 3,
+        "2023-11-06": 2,
+        "2023-11-07": 3,
+        "2023-11-08": 0,
+        "2023-11-09": 4,
+        "2023-11-10": 1,
+        "2023-11-11": 3,
+        "2023-11-12": 2,
+        "2023-11-13": 4,
+        "2023-11-14": 1,
+        "2023-11-15": 2,
+        "2023-11-16": 4,
+        "2023-11-17": 0,
+        "2023-11-18": 0,
+        "2023-11-19": 2,
+        "2023-11-20": 0,
+        "2023-11-21": 2,
+        "2023-11-22": 3,
+        "2023-11-23": 1,
+        "2023-11-24": 0,
+        "2023-11-25": 3,
+        "2023-11-26": 13,
+        "2023-11-27": 0,
+        "2023-11-28": 5,
+        "2023-11-29": 3,
+        "2023-11-30": 1,
+        "2023-12-01": 2,
+        "2023-12-02": 0,
+        "2023-12-03": 0,
+        "2023-12-04": 2,
+        "2023-12-05": 1,
+        "2023-12-06": 1,
+        "2023-12-07": 0,
+        "2023-12-08": 0,
+        "2023-12-09": 4,
+        "2023-12-10": 6,
+        "2023-12-11": 6,
+        "2023-12-12": 4,
+        "2023-12-13": 0,
+        "2023-12-14": 0,
+        "2023-12-15": 0,
+        "2023-12-16": 4,
+        "2023-12-17": 2,
+        "2023-12-18": 2,
+        "2023-12-19": 1,
+        "2023-12-20": 0,
+        "2023-12-21": 0,
+        "2023-12-22": 0,
+        "2023-12-23": 0,
+        "2023-12-24": 0,
+        "2023-12-25": 0,
+        "2023-12-26": 1,
+        "2023-12-27": 2,
+        "2023-12-28": 1,
+        "2023-12-29": 2,
+        "2023-12-30": 2,
+        "2023-12-31": 1,
+        "2022-01-01": 0,
+        "2022-01-02": 0,
+        "2022-01-03": 0,
+        "2022-01-04": 0,
+        "2022-01-05": 0,
+        "2022-01-06": 0,
+        "2022-01-07": 0,
+        "2022-01-08": 0,
+        "2022-01-09": 0,
+        "2022-01-10": 0,
+        "2022-01-11": 0,
+        "2022-01-12": 0,
+        "2022-01-13": 0,
+        "2022-01-14": 0,
+        "2022-01-15": 0,
+        "2022-01-16": 0,
+        "2022-01-17": 0,
+        "2022-01-18": 0,
+        "2022-01-19": 0,
+        "2022-01-20": 0,
+        "2022-01-21": 0,
+        "2022-01-22": 0,
+        "2022-01-23": 0,
+        "2022-01-24": 0,
+        "2022-01-25": 0,
+        "2022-01-26": 0,
+        "2022-01-27": 0,
+        "2022-01-28": 0,
+        "2022-01-29": 0,
+        "2022-01-30": 0,
+        "2022-01-31": 0,
+        "2022-02-01": 0,
+        "2022-02-02": 0,
+        "2022-02-03": 0,
+        "2022-02-04": 0,
+        "2022-02-05": 0,
+        "2022-02-06": 0,
+        "2022-02-07": 0,
+        "2022-02-08": 0,
+        "2022-02-09": 0,
+        "2022-02-10": 0,
+        "2022-02-11": 0,
+        "2022-02-12": 0,
+        "2022-02-13": 0,
+        "2022-02-14": 0,
+        "2022-02-15": 0,
+        "2022-02-16": 0,
+        "2022-02-17": 0,
+        "2022-02-18": 0,
+        "2022-02-19": 0,
+        "2022-02-20": 0,
+        "2022-02-21": 0,
+        "2022-02-22": 0,
+        "2022-02-23": 0,
+        "2022-02-24": 0,
+        "2022-02-25": 0,
+        "2022-02-26": 0,
+        "2022-02-27": 0,
+        "2022-02-28": 0,
+        "2022-03-01": 0,
+        "2022-03-02": 0,
+        "2022-03-03": 0,
+        "2022-03-04": 0,
+        "2022-03-05": 0,
+        "2022-03-06": 0,
+        "2022-03-07": 0,
+        "2022-03-08": 0,
+        "2022-03-09": 0,
+        "2022-03-10": 0,
+        "2022-03-11": 0,
+        "2022-03-12": 0,
+        "2022-03-13": 0,
+        "2022-03-14": 0,
+        "2022-03-15": 0,
+        "2022-03-16": 0,
+        "2022-03-17": 0,
+        "2022-03-18": 0,
+        "2022-03-19": 0,
+        "2022-03-20": 0,
+        "2022-03-21": 0,
+        "2022-03-22": 0,
+        "2022-03-23": 0,
+        "2022-03-24": 0,
+        "2022-03-25": 0,
+        "2022-03-26": 0,
+        "2022-03-27": 0,
+        "2022-03-28": 0,
+        "2022-03-29": 0,
+        "2022-03-30": 0,
+        "2022-03-31": 0,
+        "2022-04-01": 0,
+        "2022-04-02": 0,
+        "2022-04-03": 0,
+        "2022-04-04": 0,
+        "2022-04-05": 0,
+        "2022-04-06": 0,
+        "2022-04-07": 0,
+        "2022-04-08": 0,
+        "2022-04-09": 0,
+        "2022-04-10": 0,
+        "2022-04-11": 0,
+        "2022-04-12": 0,
+        "2022-04-13": 0,
+        "2022-04-14": 0,
+        "2022-04-15": 0,
+        "2022-04-16": 0,
+        "2022-04-17": 0,
+        "2022-04-18": 0,
+        "2022-04-19": 0,
+        "2022-04-20": 0,
+        "2022-04-21": 0,
+        "2022-04-22": 0,
+        "2022-04-23": 0,
+        "2022-04-24": 0,
+        "2022-04-25": 0,
+        "2022-04-26": 0,
+        "2022-04-27": 0,
+        "2022-04-28": 0,
+        "2022-04-29": 0,
+        "2022-04-30": 0,
+        "2022-05-01": 0,
+        "2022-05-02": 0,
+        "2022-05-03": 0,
+        "2022-05-04": 0,
+        "2022-05-05": 0,
+        "2022-05-06": 0,
+        "2022-05-07": 0,
+        "2022-05-08": 0,
+        "2022-05-09": 0,
+        "2022-05-10": 0,
+        "2022-05-11": 0,
+        "2022-05-12": 0,
+        "2022-05-13": 0,
+        "2022-05-14": 0,
+        "2022-05-15": 0,
+        "2022-05-16": 0,
+        "2022-05-17": 0,
+        "2022-05-18": 0,
+        "2022-05-19": 0,
+        "2022-05-20": 0,
+        "2022-05-21": 0,
+        "2022-05-22": 0,
+        "2022-05-23": 0,
+        "2022-05-24": 0,
+        "2022-05-25": 0,
+        "2022-05-26": 0,
+        "2022-05-27": 0,
+        "2022-05-28": 0,
+        "2022-05-29": 0,
+        "2022-05-30": 0,
+        "2022-05-31": 0,
+        "2022-06-01": 0,
+        "2022-06-02": 0,
+        "2022-06-03": 0,
+        "2022-06-04": 0,
+        "2022-06-05": 0,
+        "2022-06-06": 0,
+        "2022-06-07": 0,
+        "2022-06-08": 0,
+        "2022-06-09": 0,
+        "2022-06-10": 0,
+        "2022-06-11": 0,
+        "2022-06-12": 0,
+        "2022-06-13": 0,
+        "2022-06-14": 0,
+        "2022-06-15": 0,
+        "2022-06-16": 0,
+        "2022-06-17": 0,
+        "2022-06-18": 0,
+        "2022-06-19": 0,
+        "2022-06-20": 0,
+        "2022-06-21": 0,
+        "2022-06-22": 0,
+        "2022-06-23": 0,
+        "2022-06-24": 0,
+        "2022-06-25": 0,
+        "2022-06-26": 0,
+        "2022-06-27": 0,
+        "2022-06-28": 0,
+        "2022-06-29": 0,
+        "2022-06-30": 0,
+        "2022-07-01": 0,
+        "2022-07-02": 0,
+        "2022-07-03": 0,
+        "2022-07-04": 0,
+        "2022-07-05": 0,
+        "2022-07-06": 0,
+        "2022-07-07": 0,
+        "2022-07-08": 0,
+        "2022-07-09": 0,
+        "2022-07-10": 0,
+        "2022-07-11": 0,
+        "2022-07-12": 0,
+        "2022-07-13": 0,
+        "2022-07-14": 0,
+        "2022-07-15": 0,
+        "2022-07-16": 0,
+        "2022-07-17": 0,
+        "2022-07-18": 0,
+        "2022-07-19": 0,
+        "2022-07-20": 0,
+        "2022-07-21": 0,
+        "2022-07-22": 0,
+        "2022-07-23": 0,
+        "2022-07-24": 0,
+        "2022-07-25": 0,
+        "2022-07-26": 0,
+        "2022-07-27": 0,
+        "2022-07-28": 0,
+        "2022-07-29": 0,
+        "2022-07-30": 0,
+        "2022-07-31": 0,
+        "2022-08-01": 0,
+        "2022-08-02": 0,
+        "2022-08-03": 0,
+        "2022-08-04": 0,
+        "2022-08-05": 0,
+        "2022-08-06": 0,
+        "2022-08-07": 0,
+        "2022-08-08": 0,
+        "2022-08-09": 0,
+        "2022-08-10": 0,
+        "2022-08-11": 0,
+        "2022-08-12": 0,
+        "2022-08-13": 0,
+        "2022-08-14": 0,
+        "2022-08-15": 0,
+        "2022-08-16": 0,
+        "2022-08-17": 0,
+        "2022-08-18": 0,
+        "2022-08-19": 0,
+        "2022-08-20": 0,
+        "2022-08-21": 0,
+        "2022-08-22": 0,
+        "2022-08-23": 0,
+        "2022-08-24": 0,
+        "2022-08-25": 0,
+        "2022-08-26": 0,
+        "2022-08-27": 0,
+        "2022-08-28": 0,
+        "2022-08-29": 0,
+        "2022-08-30": 0,
+        "2022-08-31": 0,
+        "2022-09-01": 0,
+        "2022-09-02": 0,
+        "2022-09-03": 0,
+        "2022-09-04": 0,
+        "2022-09-05": 0,
+        "2022-09-06": 0,
+        "2022-09-07": 0,
+        "2022-09-08": 0,
+        "2022-09-09": 0,
+        "2022-09-10": 0,
+        "2022-09-11": 0,
+        "2022-09-12": 0,
+        "2022-09-13": 0,
+        "2022-09-14": 0,
+        "2022-09-15": 0,
+        "2022-09-16": 0,
+        "2022-09-17": 0,
+        "2022-09-18": 0,
+        "2022-09-19": 0,
+        "2022-09-20": 0,
+        "2022-09-21": 0,
+        "2022-09-22": 0,
+        "2022-09-23": 0,
+        "2022-09-24": 0,
+        "2022-09-25": 0,
+        "2022-09-26": 0,
+        "2022-09-27": 0,
+        "2022-09-28": 0,
+        "2022-09-29": 0,
+        "2022-09-30": 0,
+        "2022-10-01": 0,
+        "2022-10-02": 0,
+        "2022-10-03": 0,
+        "2022-10-04": 0,
+        "2022-10-05": 0,
+        "2022-10-06": 0,
+        "2022-10-07": 0,
+        "2022-10-08": 0,
+        "2022-10-09": 0,
+        "2022-10-10": 0,
+        "2022-10-11": 0,
+        "2022-10-12": 0,
+        "2022-10-13": 0,
+        "2022-10-14": 0,
+        "2022-10-15": 0,
+        "2022-10-16": 0,
+        "2022-10-17": 0,
+        "2022-10-18": 0,
+        "2022-10-19": 0,
+        "2022-10-20": 0,
+        "2022-10-21": 0,
+        "2022-10-22": 0,
+        "2022-10-23": 0,
+        "2022-10-24": 0,
+        "2022-10-25": 0,
+        "2022-10-26": 0,
+        "2022-10-27": 0,
+        "2022-10-28": 0,
+        "2022-10-29": 0,
+        "2022-10-30": 0,
+        "2022-10-31": 2,
+        "2022-11-01": 0,
+        "2022-11-02": 0,
+        "2022-11-03": 0,
+        "2022-11-04": 0,
+        "2022-11-05": 0,
+        "2022-11-06": 0,
+        "2022-11-07": 0,
+        "2022-11-08": 0,
+        "2022-11-09": 0,
+        "2022-11-10": 0,
+        "2022-11-11": 0,
+        "2022-11-12": 0,
+        "2022-11-13": 0,
+        "2022-11-14": 0,
+        "2022-11-15": 0,
+        "2022-11-16": 0,
+        "2022-11-17": 0,
+        "2022-11-18": 0,
+        "2022-11-19": 0,
+        "2022-11-20": 0,
+        "2022-11-21": 0,
+        "2022-11-22": 0,
+        "2022-11-23": 0,
+        "2022-11-24": 0,
+        "2022-11-25": 0,
+        "2022-11-26": 0,
+        "2022-11-27": 0,
+        "2022-11-28": 0,
+        "2022-11-29": 0,
+        "2022-11-30": 0,
+        "2022-12-01": 0,
+        "2022-12-02": 0,
+        "2022-12-03": 0,
+        "2022-12-04": 0,
+        "2022-12-05": 0,
+        "2022-12-06": 0,
+        "2022-12-07": 0,
+        "2022-12-08": 0,
+        "2022-12-09": 0,
+        "2022-12-10": 0,
+        "2022-12-11": 0,
+        "2022-12-12": 0,
+        "2022-12-13": 0,
+        "2022-12-14": 0,
+        "2022-12-15": 0,
+        "2022-12-16": 0,
+        "2022-12-17": 0,
+        "2022-12-18": 0,
+        "2022-12-19": 0,
+        "2022-12-20": 0,
+        "2022-12-21": 0,
+        "2022-12-22": 0,
+        "2022-12-23": 0,
+        "2022-12-24": 0,
+        "2022-12-25": 0,
+        "2022-12-26": 0,
+        "2022-12-27": 0,
+        "2022-12-28": 0,
+        "2022-12-29": 0,
+        "2022-12-30": 0,
+        "2022-12-31": 0,
+        "2021-01-01": 0,
+        "2021-01-02": 0,
+        "2021-01-03": 0,
+        "2021-01-04": 0,
+        "2021-01-05": 0,
+        "2021-01-06": 0,
+        "2021-01-07": 0,
+        "2021-01-08": 0,
+        "2021-01-09": 0,
+        "2021-01-10": 0,
+        "2021-01-11": 0,
+        "2021-01-12": 0,
+        "2021-01-13": 0,
+        "2021-01-14": 0,
+        "2021-01-15": 0,
+        "2021-01-16": 0,
+        "2021-01-17": 0,
+        "2021-01-18": 0,
+        "2021-01-19": 0,
+        "2021-01-20": 0,
+        "2021-01-21": 0,
+        "2021-01-22": 0,
+        "2021-01-23": 0,
+        "2021-01-24": 0,
+        "2021-01-25": 0,
+        "2021-01-26": 0,
+        "2021-01-27": 0,
+        "2021-01-28": 0,
+        "2021-01-29": 0,
+        "2021-01-30": 0,
+        "2021-01-31": 0,
+        "2021-02-01": 0,
+        "2021-02-02": 0,
+        "2021-02-03": 0,
+        "2021-02-04": 0,
+        "2021-02-05": 0,
+        "2021-02-06": 0,
+        "2021-02-07": 0,
+        "2021-02-08": 0,
+        "2021-02-09": 0,
+        "2021-02-10": 0,
+        "2021-02-11": 0,
+        "2021-02-12": 0,
+        "2021-02-13": 0,
+        "2021-02-14": 0,
+        "2021-02-15": 0,
+        "2021-02-16": 0,
+        "2021-02-17": 0,
+        "2021-02-18": 0,
+        "2021-02-19": 0,
+        "2021-02-20": 0,
+        "2021-02-21": 0,
+        "2021-02-22": 0,
+        "2021-02-23": 0,
+        "2021-02-24": 0,
+        "2021-02-25": 0,
+        "2021-02-26": 0,
+        "2021-02-27": 0,
+        "2021-02-28": 0,
+        "2021-03-01": 0,
+        "2021-03-02": 0,
+        "2021-03-03": 0,
+        "2021-03-04": 0,
+        "2021-03-05": 0,
+        "2021-03-06": 0,
+        "2021-03-07": 0,
+        "2021-03-08": 0,
+        "2021-03-09": 0,
+        "2021-03-10": 0,
+        "2021-03-11": 0,
+        "2021-03-12": 0,
+        "2021-03-13": 0,
+        "2021-03-14": 0,
+        "2021-03-15": 0,
+        "2021-03-16": 0,
+        "2021-03-17": 0,
+        "2021-03-18": 0,
+        "2021-03-19": 0,
+        "2021-03-20": 0,
+        "2021-03-21": 0,
+        "2021-03-22": 0,
+        "2021-03-23": 0,
+        "2021-03-24": 0,
+        "2021-03-25": 0,
+        "2021-03-26": 0,
+        "2021-03-27": 0,
+        "2021-03-28": 0,
+        "2021-03-29": 0,
+        "2021-03-30": 0,
+        "2021-03-31": 0,
+        "2021-04-01": 0,
+        "2021-04-02": 0,
+        "2021-04-03": 0,
+        "2021-04-04": 0,
+        "2021-04-05": 0,
+        "2021-04-06": 0,
+        "2021-04-07": 0,
+        "2021-04-08": 0,
+        "2021-04-09": 0,
+        "2021-04-10": 0,
+        "2021-04-11": 0,
+        "2021-04-12": 0,
+        "2021-04-13": 0,
+        "2021-04-14": 0,
+        "2021-04-15": 0,
+        "2021-04-16": 0,
+        "2021-04-17": 0,
+        "2021-04-18": 0,
+        "2021-04-19": 0,
+        "2021-04-20": 0,
+        "2021-04-21": 0,
+        "2021-04-22": 0,
+        "2021-04-23": 0,
+        "2021-04-24": 0,
+        "2021-04-25": 0,
+        "2021-04-26": 0,
+        "2021-04-27": 0,
+        "2021-04-28": 0,
+        "2021-04-29": 0,
+        "2021-04-30": 0,
+        "2021-05-01": 0,
+        "2021-05-02": 0,
+        "2021-05-03": 0,
+        "2021-05-04": 0,
+        "2021-05-05": 0,
+        "2021-05-06": 0,
+        "2021-05-07": 0,
+        "2021-05-08": 0,
+        "2021-05-09": 0,
+        "2021-05-10": 0,
+        "2021-05-11": 0,
+        "2021-05-12": 0,
+        "2021-05-13": 0,
+        "2021-05-14": 0,
+        "2021-05-15": 0,
+        "2021-05-16": 0,
+        "2021-05-17": 0,
+        "2021-05-18": 0,
+        "2021-05-19": 0,
+        "2021-05-20": 0,
+        "2021-05-21": 0,
+        "2021-05-22": 0,
+        "2021-05-23": 0,
+        "2021-05-24": 0,
+        "2021-05-25": 0,
+        "2021-05-26": 0,
+        "2021-05-27": 0,
+        "2021-05-28": 0,
+        "2021-05-29": 0,
+        "2021-05-30": 0,
+        "2021-05-31": 0,
+        "2021-06-01": 0,
+        "2021-06-02": 0,
+        "2021-06-03": 0,
+        "2021-06-04": 0,
+        "2021-06-05": 0,
+        "2021-06-06": 0,
+        "2021-06-07": 0,
+        "2021-06-08": 0,
+        "2021-06-09": 0,
+        "2021-06-10": 0,
+        "2021-06-11": 0,
+        "2021-06-12": 0,
+        "2021-06-13": 0,
+        "2021-06-14": 0,
+        "2021-06-15": 0,
+        "2021-06-16": 0,
+        "2021-06-17": 0,
+        "2021-06-18": 0,
+        "2021-06-19": 0,
+        "2021-06-20": 0,
+        "2021-06-21": 0,
+        "2021-06-22": 0,
+        "2021-06-23": 0,
+        "2021-06-24": 0,
+        "2021-06-25": 0,
+        "2021-06-26": 0,
+        "2021-06-27": 0,
+        "2021-06-28": 0,
+        "2021-06-29": 0,
+        "2021-06-30": 0,
+        "2021-07-01": 0,
+        "2021-07-02": 0,
+        "2021-07-03": 0,
+        "2021-07-04": 0,
+        "2021-07-05": 0,
+        "2021-07-06": 0,
+        "2021-07-07": 0,
+        "2021-07-08": 0,
+        "2021-07-09": 0,
+        "2021-07-10": 0,
+        "2021-07-11": 0,
+        "2021-07-12": 0,
+        "2021-07-13": 0,
+        "2021-07-14": 0,
+        "2021-07-15": 0,
+        "2021-07-16": 0,
+        "2021-07-17": 0,
+        "2021-07-18": 0,
+        "2021-07-19": 0,
+        "2021-07-20": 0,
+        "2021-07-21": 0,
+        "2021-07-22": 0,
+        "2021-07-23": 0,
+        "2021-07-24": 0,
+        "2021-07-25": 0,
+        "2021-07-26": 0,
+        "2021-07-27": 0,
+        "2021-07-28": 0,
+        "2021-07-29": 0,
+        "2021-07-30": 0,
+        "2021-07-31": 0,
+        "2021-08-01": 0,
+        "2021-08-02": 0,
+        "2021-08-03": 0,
+        "2021-08-04": 0,
+        "2021-08-05": 0,
+        "2021-08-06": 0,
+        "2021-08-07": 0,
+        "2021-08-08": 0,
+        "2021-08-09": 0,
+        "2021-08-10": 0,
+        "2021-08-11": 0,
+        "2021-08-12": 0,
+        "2021-08-13": 0,
+        "2021-08-14": 0,
+        "2021-08-15": 0,
+        "2021-08-16": 0,
+        "2021-08-17": 0,
+        "2021-08-18": 0,
+        "2021-08-19": 5,
+        "2021-08-20": 0,
+        "2021-08-21": 0,
+        "2021-08-22": 0,
+        "2021-08-23": 0,
+        "2021-08-24": 1,
+        "2021-08-25": 0,
+        "2021-08-26": 4,
+        "2021-08-27": 0,
+        "2021-08-28": 0,
+        "2021-08-29": 0,
+        "2021-08-30": 0,
+        "2021-08-31": 0,
+        "2021-09-01": 0,
+        "2021-09-02": 0,
+        "2021-09-03": 0,
+        "2021-09-04": 0,
+        "2021-09-05": 0,
+        "2021-09-06": 0,
+        "2021-09-07": 0,
+        "2021-09-08": 0,
+        "2021-09-09": 0,
+        "2021-09-10": 0,
+        "2021-09-11": 0,
+        "2021-09-12": 0,
+        "2021-09-13": 0,
+        "2021-09-14": 0,
+        "2021-09-15": 0,
+        "2021-09-16": 0,
+        "2021-09-17": 0,
+        "2021-09-18": 0,
+        "2021-09-19": 0,
+        "2021-09-20": 0,
+        "2021-09-21": 0,
+        "2021-09-22": 0,
+        "2021-09-23": 0,
+        "2021-09-24": 0,
+        "2021-09-25": 0,
+        "2021-09-26": 0,
+        "2021-09-27": 0,
+        "2021-09-28": 0,
+        "2021-09-29": 0,
+        "2021-09-30": 0,
+        "2021-10-01": 0,
+        "2021-10-02": 0,
+        "2021-10-03": 0,
+        "2021-10-04": 0,
+        "2021-10-05": 0,
+        "2021-10-06": 0,
+        "2021-10-07": 0,
+        "2021-10-08": 0,
+        "2021-10-09": 0,
+        "2021-10-10": 0,
+        "2021-10-11": 0,
+        "2021-10-12": 0,
+        "2021-10-13": 0,
+        "2021-10-14": 0,
+        "2021-10-15": 0,
+        "2021-10-16": 0,
+        "2021-10-17": 0,
+        "2021-10-18": 0,
+        "2021-10-19": 3,
+        "2021-10-20": 0,
+        "2021-10-21": 0,
+        "2021-10-22": 0,
+        "2021-10-23": 0,
+        "2021-10-24": 0,
+        "2021-10-25": 0,
+        "2021-10-26": 0,
+        "2021-10-27": 0,
+        "2021-10-28": 0,
+        "2021-10-29": 0,
+        "2021-10-30": 0,
+        "2021-10-31": 0,
+        "2021-11-01": 0,
+        "2021-11-02": 0,
+        "2021-11-03": 0,
+        "2021-11-04": 0,
+        "2021-11-05": 0,
+        "2021-11-06": 0,
+        "2021-11-07": 0,
+        "2021-11-08": 0,
+        "2021-11-09": 0,
+        "2021-11-10": 0,
+        "2021-11-11": 0,
+        "2021-11-12": 0,
+        "2021-11-13": 0,
+        "2021-11-14": 0,
+        "2021-11-15": 0,
+        "2021-11-16": 0,
+        "2021-11-17": 0,
+        "2021-11-18": 0,
+        "2021-11-19": 0,
+        "2021-11-20": 0,
+        "2021-11-21": 0,
+        "2021-11-22": 0,
+        "2021-11-23": 0,
+        "2021-11-24": 0,
+        "2021-11-25": 0,
+        "2021-11-26": 0,
+        "2021-11-27": 0,
+        "2021-11-28": 0,
+        "2021-11-29": 0,
+        "2021-11-30": 0,
+        "2021-12-01": 0,
+        "2021-12-02": 0,
+        "2021-12-03": 0,
+        "2021-12-04": 0,
+        "2021-12-05": 0,
+        "2021-12-06": 0,
+        "2021-12-07": 0,
+        "2021-12-08": 0,
+        "2021-12-09": 0,
+        "2021-12-10": 0,
+        "2021-12-11": 0,
+        "2021-12-12": 0,
+        "2021-12-13": 0,
+        "2021-12-14": 0,
+        "2021-12-15": 0,
+        "2021-12-16": 0,
+        "2021-12-17": 0,
+        "2021-12-18": 0,
+        "2021-12-19": 0,
+        "2021-12-20": 0,
+        "2021-12-21": 0,
+        "2021-12-22": 0,
+        "2021-12-23": 0,
+        "2021-12-24": 0,
+        "2021-12-25": 0,
+        "2021-12-26": 0,
+        "2021-12-27": 0,
+        "2021-12-28": 0,
+        "2021-12-29": 0,
+        "2021-12-30": 0,
+        "2021-12-31": 0,
+        "2020-01-01": 0,
+        "2020-01-02": 0,
+        "2020-01-03": 0,
+        "2020-01-04": 0,
+        "2020-01-05": 0,
+        "2020-01-06": 0,
+        "2020-01-07": 0,
+        "2020-01-08": 0,
+        "2020-01-09": 0,
+        "2020-01-10": 0,
+        "2020-01-11": 0,
+        "2020-01-12": 0,
+        "2020-01-13": 0,
+        "2020-01-14": 0,
+        "2020-01-15": 0,
+        "2020-01-16": 0,
+        "2020-01-17": 0,
+        "2020-01-18": 0,
+        "2020-01-19": 0,
+        "2020-01-20": 0,
+        "2020-01-21": 0,
+        "2020-01-22": 0,
+        "2020-01-23": 0,
+        "2020-01-24": 0,
+        "2020-01-25": 0,
+        "2020-01-26": 0,
+        "2020-01-27": 0,
+        "2020-01-28": 0,
+        "2020-01-29": 0,
+        "2020-01-30": 0,
+        "2020-01-31": 0,
+        "2020-02-01": 0,
+        "2020-02-02": 0,
+        "2020-02-03": 0,
+        "2020-02-04": 0,
+        "2020-02-05": 0,
+        "2020-02-06": 0,
+        "2020-02-07": 0,
+        "2020-02-08": 0,
+        "2020-02-09": 0,
+        "2020-02-10": 0,
+        "2020-02-11": 0,
+        "2020-02-12": 0,
+        "2020-02-13": 0,
+        "2020-02-14": 0,
+        "2020-02-15": 0,
+        "2020-02-16": 0,
+        "2020-02-17": 0,
+        "2020-02-18": 0,
+        "2020-02-19": 0,
+        "2020-02-20": 0,
+        "2020-02-21": 0,
+        "2020-02-22": 0,
+        "2020-02-23": 0,
+        "2020-02-24": 0,
+        "2020-02-25": 0,
+        "2020-02-26": 0,
+        "2020-02-27": 0,
+        "2020-02-28": 0,
+        "2020-02-29": 0,
+        "2020-03-01": 0,
+        "2020-03-02": 0,
+        "2020-03-03": 0,
+        "2020-03-04": 0,
+        "2020-03-05": 0,
+        "2020-03-06": 0,
+        "2020-03-07": 0,
+        "2020-03-08": 0,
+        "2020-03-09": 0,
+        "2020-03-10": 0,
+        "2020-03-11": 0,
+        "2020-03-12": 0,
+        "2020-03-13": 0,
+        "2020-03-14": 0,
+        "2020-03-15": 0,
+        "2020-03-16": 0,
+        "2020-03-17": 0,
+        "2020-03-18": 0,
+        "2020-03-19": 0,
+        "2020-03-20": 0,
+        "2020-03-21": 0,
+        "2020-03-22": 0,
+        "2020-03-23": 0,
+        "2020-03-24": 0,
+        "2020-03-25": 0,
+        "2020-03-26": 0,
+        "2020-03-27": 0,
+        "2020-03-28": 0,
+        "2020-03-29": 0,
+        "2020-03-30": 0,
+        "2020-03-31": 0,
+        "2020-04-01": 0,
+        "2020-04-02": 0,
+        "2020-04-03": 0,
+        "2020-04-04": 0,
+        "2020-04-05": 0,
+        "2020-04-06": 0,
+        "2020-04-07": 0,
+        "2020-04-08": 0,
+        "2020-04-09": 0,
+        "2020-04-10": 0,
+        "2020-04-11": 0,
+        "2020-04-12": 0,
+        "2020-04-13": 0,
+        "2020-04-14": 0,
+        "2020-04-15": 0,
+        "2020-04-16": 0,
+        "2020-04-17": 0,
+        "2020-04-18": 0,
+        "2020-04-19": 0,
+        "2020-04-20": 0,
+        "2020-04-21": 0,
+        "2020-04-22": 0,
+        "2020-04-23": 0,
+        "2020-04-24": 0,
+        "2020-04-25": 0,
+        "2020-04-26": 0,
+        "2020-04-27": 0,
+        "2020-04-28": 0,
+        "2020-04-29": 0,
+        "2020-04-30": 0,
+        "2020-05-01": 0,
+        "2020-05-02": 0,
+        "2020-05-03": 0,
+        "2020-05-04": 0,
+        "2020-05-05": 0,
+        "2020-05-06": 0,
+        "2020-05-07": 0,
+        "2020-05-08": 0,
+        "2020-05-09": 0,
+        "2020-05-10": 0,
+        "2020-05-11": 0,
+        "2020-05-12": 0,
+        "2020-05-13": 0,
+        "2020-05-14": 0,
+        "2020-05-15": 0,
+        "2020-05-16": 0,
+        "2020-05-17": 0,
+        "2020-05-18": 0,
+        "2020-05-19": 0,
+        "2020-05-20": 0,
+        "2020-05-21": 0,
+        "2020-05-22": 0,
+        "2020-05-23": 0,
+        "2020-05-24": 0,
+        "2020-05-25": 0,
+        "2020-05-26": 0,
+        "2020-05-27": 0,
+        "2020-05-28": 0,
+        "2020-05-29": 0,
+        "2020-05-30": 0,
+        "2020-05-31": 0,
+        "2020-06-01": 0,
+        "2020-06-02": 0,
+        "2020-06-03": 0,
+        "2020-06-04": 0,
+        "2020-06-05": 0,
+        "2020-06-06": 0,
+        "2020-06-07": 0,
+        "2020-06-08": 0,
+        "2020-06-09": 0,
+        "2020-06-10": 0,
+        "2020-06-11": 0,
+        "2020-06-12": 0,
+        "2020-06-13": 0,
+        "2020-06-14": 0,
+        "2020-06-15": 0,
+        "2020-06-16": 0,
+        "2020-06-17": 0,
+        "2020-06-18": 0,
+        "2020-06-19": 0,
+        "2020-06-20": 0,
+        "2020-06-21": 0,
+        "2020-06-22": 0,
+        "2020-06-23": 0,
+        "2020-06-24": 0,
+        "2020-06-25": 0,
+        "2020-06-26": 0,
+        "2020-06-27": 0,
+        "2020-06-28": 0,
+        "2020-06-29": 0,
+        "2020-06-30": 0,
+        "2020-07-01": 0,
+        "2020-07-02": 0,
+        "2020-07-03": 0,
+        "2020-07-04": 0,
+        "2020-07-05": 0,
+        "2020-07-06": 0,
+        "2020-07-07": 0,
+        "2020-07-08": 0,
+        "2020-07-09": 0,
+        "2020-07-10": 0,
+        "2020-07-11": 0,
+        "2020-07-12": 0,
+        "2020-07-13": 0,
+        "2020-07-14": 0,
+        "2020-07-15": 0,
+        "2020-07-16": 0,
+        "2020-07-17": 0,
+        "2020-07-18": 0,
+        "2020-07-19": 0,
+        "2020-07-20": 0,
+        "2020-07-21": 0,
+        "2020-07-22": 0,
+        "2020-07-23": 0,
+        "2020-07-24": 0,
+        "2020-07-25": 0,
+        "2020-07-26": 0,
+        "2020-07-27": 0,
+        "2020-07-28": 0,
+        "2020-07-29": 0,
+        "2020-07-30": 0,
+        "2020-07-31": 0,
+        "2020-08-01": 0,
+        "2020-08-02": 0,
+        "2020-08-03": 0,
+        "2020-08-04": 0,
+        "2020-08-05": 0,
+        "2020-08-06": 0,
+        "2020-08-07": 0,
+        "2020-08-08": 0,
+        "2020-08-09": 0,
+        "2020-08-10": 0,
+        "2020-08-11": 0,
+        "2020-08-12": 0,
+        "2020-08-13": 0,
+        "2020-08-14": 0,
+        "2020-08-15": 0,
+        "2020-08-16": 0,
+        "2020-08-17": 0,
+        "2020-08-18": 0,
+        "2020-08-19": 0,
+        "2020-08-20": 0,
+        "2020-08-21": 0,
+        "2020-08-22": 0,
+        "2020-08-23": 0,
+        "2020-08-24": 0,
+        "2020-08-25": 0,
+        "2020-08-26": 0,
+        "2020-08-27": 0,
+        "2020-08-28": 0,
+        "2020-08-29": 0,
+        "2020-08-30": 0,
+        "2020-08-31": 0,
+        "2020-09-01": 0,
+        "2020-09-02": 0,
+        "2020-09-03": 0,
+        "2020-09-04": 0,
+        "2020-09-05": 0,
+        "2020-09-06": 0,
+        "2020-09-07": 0,
+        "2020-09-08": 0,
+        "2020-09-09": 0,
+        "2020-09-10": 0,
+        "2020-09-11": 0,
+        "2020-09-12": 0,
+        "2020-09-13": 0,
+        "2020-09-14": 0,
+        "2020-09-15": 0,
+        "2020-09-16": 0,
+        "2020-09-17": 0,
+        "2020-09-18": 0,
+        "2020-09-19": 0,
+        "2020-09-20": 0,
+        "2020-09-21": 0,
+        "2020-09-22": 0,
+        "2020-09-23": 0,
+        "2020-09-24": 0,
+        "2020-09-25": 0,
+        "2020-09-26": 0,
+        "2020-09-27": 0,
+        "2020-09-28": 0,
+        "2020-09-29": 0,
+        "2020-09-30": 0,
+        "2020-10-01": 0,
+        "2020-10-02": 0,
+        "2020-10-03": 0,
+        "2020-10-04": 0,
+        "2020-10-05": 0,
+        "2020-10-06": 0,
+        "2020-10-07": 0,
+        "2020-10-08": 0,
+        "2020-10-09": 0,
+        "2020-10-10": 0,
+        "2020-10-11": 0,
+        "2020-10-12": 0,
+        "2020-10-13": 0,
+        "2020-10-14": 0,
+        "2020-10-15": 0,
+        "2020-10-16": 0,
+        "2020-10-17": 0,
+        "2020-10-18": 0,
+        "2020-10-19": 0,
+        "2020-10-20": 0,
+        "2020-10-21": 0,
+        "2020-10-22": 0,
+        "2020-10-23": 0,
+        "2020-10-24": 0,
+        "2020-10-25": 0,
+        "2020-10-26": 0,
+        "2020-10-27": 0,
+        "2020-10-28": 0,
+        "2020-10-29": 0,
+        "2020-10-30": 0,
+        "2020-10-31": 0,
+        "2020-11-01": 0,
+        "2020-11-02": 0,
+        "2020-11-03": 0,
+        "2020-11-04": 0,
+        "2020-11-05": 0,
+        "2020-11-06": 0,
+        "2020-11-07": 0,
+        "2020-11-08": 0,
+        "2020-11-09": 0,
+        "2020-11-10": 0,
+        "2020-11-11": 0,
+        "2020-11-12": 0,
+        "2020-11-13": 0,
+        "2020-11-14": 0,
+        "2020-11-15": 0,
+        "2020-11-16": 0,
+        "2020-11-17": 0,
+        "2020-11-18": 0,
+        "2020-11-19": 0,
+        "2020-11-20": 0,
+        "2020-11-21": 0,
+        "2020-11-22": 0,
+        "2020-11-23": 0,
+        "2020-11-24": 0,
+        "2020-11-25": 0,
+        "2020-11-26": 0,
+        "2020-11-27": 0,
+        "2020-11-28": 0,
+        "2020-11-29": 0,
+        "2020-11-30": 0,
+        "2020-12-01": 0,
+        "2020-12-02": 0,
+        "2020-12-03": 0,
+        "2020-12-04": 0,
+        "2020-12-05": 0,
+        "2020-12-06": 1,
+        "2020-12-07": 0,
+        "2020-12-08": 0,
+        "2020-12-09": 0,
+        "2020-12-10": 0,
+        "2020-12-11": 0,
+        "2020-12-12": 0,
+        "2020-12-13": 0,
+        "2020-12-14": 0,
+        "2020-12-15": 0,
+        "2020-12-16": 0,
+        "2020-12-17": 0,
+        "2020-12-18": 0,
+        "2020-12-19": 0,
+        "2020-12-20": 0,
+        "2020-12-21": 0,
+        "2020-12-22": 0,
+        "2020-12-23": 0,
+        "2020-12-24": 0,
+        "2020-12-25": 0,
+        "2020-12-26": 0,
+        "2020-12-27": 0,
+        "2020-12-28": 0,
+        "2020-12-29": 0,
+        "2020-12-30": 0,
+        "2020-12-31": 0
+    },
+    "achievements": {
+        "total": {
+            "raw": 4,
+            "weighted": 4
+        },
+        "achievements": [
+            {
+                "achievement": "starstruck",
+                "type": "starstruck",
+                "tier": "bronze",
+                "image": "https://github.githubassets.com/assets/starstruck-default-b6610abad518.png",
+                "title": "Starstruck",
+                "description": "Created a repository that has 16 stars"
+            },
+            {
+                "achievement": "pull-shark",
+                "type": "pull-shark",
+                "tier": "bronze",
+                "image": "https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png",
+                "title": "Pull Shark",
+                "description": "Opened a pull request that has been merged"
+            },
+            {
+                "achievement": "yolo",
+                "type": "yolo",
+                "tier": "bronze",
+                "image": "https://github.githubassets.com/assets/yolo-default-be0bbff04951.png",
+                "title": "YOLO",
+                "description": "Merged a pull request without code review"
+            },
+            {
+                "achievement": "quickdraw",
+                "type": "quickdraw",
+                "tier": "default",
+                "image": "https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png",
+                "title": "Quickdraw",
+                "description": "Closed a pull request or issue within 5 minutes of opening"
+            }
+        ]
+    },
+    "cachedAt": 1771721538882
+}
