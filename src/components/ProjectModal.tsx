@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
-import { X, ExternalLink, Github, Calendar, Tag, ChevronLeft, ChevronRight } from 'lucide-react';
+import { X, ExternalLink, GithubIcon as Github, Calendar, Tag, ChevronLeft, ChevronRight } from 'lucide-react';
 
 interface Project {
   title: string;
@@ -68,8 +68,8 @@ const ProjectModal: React.FC<Props> = ({ project, onClose }) => {
 
   return (
     <div
-      className="fixed inset-0 z-[100] flex items-end sm:items-center justify-center sm:p-4 animate-modal-backdrop"
-      style={{ backgroundColor: 'rgba(0,0,0,0.5)' }}
+      className="fixed inset-0 z-[100] flex items-end sm:items-center justify-center sm:p-4 modal-backdrop"
+      style={{ backgroundColor: 'rgba(0,0,0,0.55)' }}
       onClick={onClose}
       aria-modal="true"
       role="dialog"
@@ -83,10 +83,10 @@ const ProjectModal: React.FC<Props> = ({ project, onClose }) => {
         onClick={(e) => e.stopPropagation()}
         onTouchStart={handleTouchStart}
         onTouchEnd={handleTouchEnd}
-        className="relative z-10 w-full outline-none bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 shadow-2xl overflow-hidden max-h-[92dvh] flex flex-col rounded-t-2xl sm:rounded-2xl sm:max-w-lg animate-modal-enter"
+        className="relative z-10 w-full outline-none bg-white dark:bg-[#0C0C0C] border border-stone-200/60 dark:border-stone-800/40 shadow-2xl overflow-hidden max-h-[92dvh] flex flex-col rounded-t-2xl sm:rounded-2xl sm:max-w-lg modal-enter"
       >
         {/* Handle mobile */}
-        <div className="absolute top-3 left-1/2 -translate-x-1/2 w-10 h-1 rounded-full bg-zinc-200 dark:bg-zinc-700 sm:hidden pointer-events-none z-10" />
+        <div className="absolute top-3 left-1/2 -translate-x-1/2 w-10 h-1 rounded-full bg-stone-200 dark:bg-stone-700 sm:hidden pointer-events-none z-10" />
 
         {/* Carousel */}
         {project.images.length > 0 && (
@@ -134,15 +134,15 @@ const ProjectModal: React.FC<Props> = ({ project, onClose }) => {
         )}
 
         {/* Header */}
-        <div className="flex items-start justify-between gap-4 px-6 pt-6 pb-4 border-b border-zinc-100 dark:border-zinc-800 shrink-0">
+        <div className="flex items-start justify-between gap-4 px-6 pt-6 pb-4 border-b border-stone-200/40 dark:border-stone-800/40 shrink-0">
           <div className="flex-1 min-w-0">
             <div className="flex items-center gap-2 mb-2">
-              <span className="flex items-center gap-1 text-xs text-zinc-500 dark:text-zinc-400 font-medium">
+              <span className="flex items-center gap-1 text-xs text-stone-500 dark:text-stone-400 font-medium">
                 <Tag className="w-3 h-3" />
                 {project.type}
               </span>
-              <span className="text-zinc-200 dark:text-zinc-700 text-xs">·</span>
-              <span className="flex items-center gap-1 text-xs text-zinc-400 dark:text-zinc-500">
+              <span className="text-stone-300 dark:text-stone-700 text-xs">·</span>
+              <span className="flex items-center gap-1 text-xs text-stone-400 dark:text-stone-500 font-code">
                 <Calendar className="w-3 h-3" />
                 {project.date}
               </span>
@@ -151,7 +151,7 @@ const ProjectModal: React.FC<Props> = ({ project, onClose }) => {
           </div>
           <button
             onClick={onClose}
-            className="shrink-0 w-8 h-8 flex items-center justify-center rounded-lg text-zinc-400 hover:text-zinc-700 dark:hover:text-zinc-200 hover:bg-zinc-100 dark:hover:bg-zinc-800 transition-colors duration-200 mt-0.5"
+            className="shrink-0 w-8 h-8 flex items-center justify-center rounded-lg text-stone-400 hover:text-stone-700 dark:hover:text-stone-200 hover:bg-stone-100 dark:hover:bg-stone-800 transition-colors duration-200 mt-0.5"
             aria-label="Fechar"
           >
             <X className="w-4 h-4" />
@@ -163,24 +163,24 @@ const ProjectModal: React.FC<Props> = ({ project, onClose }) => {
 
           {/* Description */}
           <div>
-            <p className="text-[10px] font-semibold uppercase tracking-widest text-zinc-400 dark:text-zinc-500 mb-2">
+            <p className="text-[10px] font-semibold uppercase tracking-[0.15em] text-stone-400 dark:text-stone-500 mb-2">
               Descrição
             </p>
-            <p className="text-sm text-zinc-600 dark:text-zinc-400 leading-relaxed whitespace-pre-line">
+            <p className="text-sm text-stone-600 dark:text-stone-400 leading-relaxed whitespace-pre-line">
               {project.fullDescription}
             </p>
           </div>
 
           {/* Tags */}
           <div>
-            <p className="text-[10px] font-semibold uppercase tracking-widest text-zinc-400 dark:text-zinc-500 mb-2.5">
+            <p className="text-[10px] font-semibold uppercase tracking-[0.15em] text-stone-400 dark:text-stone-500 mb-2.5">
               Tecnologias
             </p>
             <div className="flex flex-wrap gap-1.5">
               {project.tags.map((tag) => (
                 <span
                   key={tag}
-                  className="px-2.5 py-1 bg-zinc-100 dark:bg-zinc-800 rounded-lg text-xs text-zinc-600 dark:text-zinc-300 font-medium"
+                  className="px-2.5 py-1 bg-stone-100 dark:bg-stone-800/60 rounded-lg text-xs text-stone-600 dark:text-stone-300 font-medium"
                 >
                   {tag}
                 </span>
@@ -196,7 +196,7 @@ const ProjectModal: React.FC<Props> = ({ project, onClose }) => {
                   href={project.github}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex-1 flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl border border-zinc-200 dark:border-zinc-700 text-sm font-semibold text-zinc-700 dark:text-zinc-300 hover:bg-zinc-100 dark:hover:bg-zinc-800 transition-colors duration-200"
+                  className="flex-1 flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl border border-stone-200 dark:border-stone-700 text-sm font-semibold text-stone-700 dark:text-stone-300 hover:bg-stone-100 dark:hover:bg-stone-800 transition-colors duration-200"
                 >
                   <Github className="w-4 h-4" />
                   GitHub
@@ -207,7 +207,7 @@ const ProjectModal: React.FC<Props> = ({ project, onClose }) => {
                   href={project.link}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex-1 flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl bg-orange-500 text-sm font-semibold text-white hover:bg-orange-400 transition-colors duration-200"
+                  className="flex-1 flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl btn-accent text-sm font-semibold"
                 >
                   <ExternalLink className="w-4 h-4" />
                   Ver projeto
